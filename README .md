@@ -76,50 +76,17 @@ I'm a multidisciplinary technologist operating at the intersection of **AI/ML**,
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/DP1110/A.E.T.H.E.R">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DP1110&repo=A.E.T.H.E.R&theme=radical&border_color=C70039&title_color=FF4B4B&icon_color=C70039&cache_seconds=86400" />
-      </a>
-      <br/>
-      <sub><b>A.E.T.H.E.R</b> — Autonomous Embedded Translation & Host Environment Router</sub>
-      <br/>
-      <sub><code>C++</code> · Embedded Systems · Protocol Routing</sub>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/DP1110/naive-rag-playground">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DP1110&repo=naive-rag-playground&theme=radical&border_color=C70039&title_color=FF4B4B&icon_color=C70039&cache_seconds=86400" />
-      </a>
-      <br/>
-      <sub><b>Naive RAG Playground</b> — Interactive RAG with FastAPI, FAISS & Glassmorphic UI</sub>
-      <br/>
-      <sub><code>JavaScript</code> · FastAPI · FAISS · BGE Embeddings</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/DP1110/Offline-LLM-Bridge">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DP1110&repo=Offline-LLM-Bridge&theme=radical&border_color=C70039&title_color=FF4B4B&icon_color=C70039&cache_seconds=86400" />
-      </a>
-      <br/>
-      <sub><b>Offline LLM Bridge</b> — Private AI Chat via ESP8266 & Ollama</sub>
-      <br/>
-      <sub><code>C++</code> · IoT · Edge AI · Offline LLM</sub>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/DP1110/api-gateway-portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DP1110&repo=api-gateway-portfolio&theme=radical&border_color=C70039&title_color=FF4B4B&icon_color=C70039&cache_seconds=86400" />
-      </a>
-      <br/>
-      <sub><b>API Gateway Portfolio</b> — Scalable API Gateway Architecture</sub>
-      <br/>
-      <sub><code>Python</code> · Cloud Native · Microservices</sub>
-    </td>
-  </tr>
-</table>
+| 🔴 **A.E.T.H.E.R** | 🔴 **Naive RAG Playground** |
+|:---:|:---:|
+| **Autonomous Embedded Translation & Host Environment Router** | **Interactive RAG with FastAPI, FAISS & Glassmorphic UI** |
+| `C++` · Embedded Systems · Protocol Routing | `JavaScript` · FastAPI · FAISS · BGE Embeddings |
+| [View Repo →](https://github.com/DP1110/A.E.T.H.E.R) | [View Repo →](https://github.com/DP1110/naive-rag-playground) |
 
-</div>
+| 🔴 **Offline LLM Bridge** | 🔴 **API Gateway Portfolio** |
+|:---:|:---:|
+| **Private AI Chat via ESP8266 & Ollama** | **Scalable API Gateway Architecture** |
+| `C++` · IoT · Edge AI · Offline LLM | `Python` · Cloud Native · Microservices |
+| [View Repo →](https://github.com/DP1110/Offline-LLM-Bridge) | [View Repo →](https://github.com/DP1110/api-gateway-portfolio) |
 
 ---
 
@@ -127,15 +94,6 @@ I'm a multidisciplinary technologist operating at the intersection of **AI/ML**,
 
 <div align="center">
 
-<!-- Stats Row -->
-<img src="https://github-readme-stats.vercel.app/api?username=DP1110&show_icons=true&theme=radical&border_color=C70039&title_color=FF4B4B&icon_color=C70039&text_color=FFFFFF&bg_color=0D1117&rank_icon=github&cache_seconds=86400" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DP1110&theme=radical&border=C70039&stroke=C70039&ring=FF4B4B&fire=FF4B4B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF4B4B&sideLabels=C70039&dates=FFFFFF" height="180" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DP1110&layout=compact&theme=radical&border_color=C70039&title_color=FF4B4B&text_color=FFFFFF&bg_color=0D1117&langs_count=8&cache_seconds=86400" height="180" />
-
-<!-- Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=DP1110&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" />
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DP1110&theme=redical&bg_color=0D1117&color=C70039&line=FF4B4B&point=FFFFFF&area=true&hide_border=false&border_color=C70039" width="100%" />
@@ -159,6 +117,9 @@ I'm a multidisciplinary technologist operating at the intersection of **AI/ML**,
 
 ---
 
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -173,20 +134,14 @@ I'm a multidisciplinary technologist operating at the intersection of **AI/ML**,
 
 <div align="center">
 
-<!-- 🐍 SNAKE ANIMATION — Requires GitHub Action Setup (see below) -->
-<!-- If images don't show, you need to set up the workflow first! -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DP1110/DP1110/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DP1110/DP1110/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DP1110/DP1110/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:900C3F,50:C70039,100:FF4B4B&height=120&section=footer"/>
 
 **🔺 Red Team Mindset. Blue Team Discipline. Purple Team Execution. 🔺**
 
 </div>
+
+
 
 <!--
 ═══════════════════════════════════════════════════════════════════════
