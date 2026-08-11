@@ -1,0 +1,127 @@
+<div align="center">
+
+<img src="./assets/banner.png" width="100%" alt="banner"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=800&color=FF6B35&center=true&vCenter=true&width=600&lines=Dipak+Prabhakar+Mane;AI+Agent+%26+Automation+Developer;GenAI+%7C+RAG+%7C+Multi-Agent+Systems;Building+Offline-First+AI" alt="typing"/>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF4500?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/DP1110)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FF6B35?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dipak-mane-b59493272)
+[![Upwork](https://img.shields.io/badge/UPWORK-FF8C61?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com)
+[![Gmail](https://img.shields.io/badge/CONTACT-FF4500?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+
+</div>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+## `whoami`
+
+```python
+class DipakMane(object):
+    def __init__(self):
+        self.role       = "AI Agent & Automation Developer"
+        self.study      = "B.Tech CSE (AI/ML) — JSPM University, Pune '26"
+        self.minor      = "Cybersecurity"
+        self.stack      = ["Python", "FastAPI", "n8n", "Ollama", "React", "ESP32/ESP8266"]
+        self.focus      = ["Multi-Agent Orchestration", "RAG", "Local/Offline LLMs", "Automation"]
+        self.freelance  = ["Upwork", "Fiverr", "Contra", "PeoplePerHour"]
+        self.targets    = ["Sarvam AI", "Microsoft India", "Krutrim"]
+
+    def current_grind(self):
+        return "LeetCode #76-80 | SIH 2026 prep | Offline-LLM-Bridge build"
+```
+
+<img src="./assets/divider.svg" width="100%"/>
+
+## `flagship_builds`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 AgentMesh
+Hierarchical multi-agent orchestration system. Pluggable model layer, full spec docs (README / ARCHITECTURE / DECISIONS).
+`Python` `Multi-Agent` `FYP`
+
+</td>
+<td width="50%">
+
+### 💻 CodeMesh
+Offline Monaco Editor + FastAPI + Ollama coding agent. Zero cloud dependency.
+`FastAPI` `Ollama` `Offline-First`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📡 Offline-LLM-Bridge
+ESP8266 WiFi AP proxying requests to a local Ollama instance. No internet needed.
+`ESP8266` `Embedded` `LLM`
+
+</td>
+<td width="50%">
+
+### 🛡️ LinkGuard / ReplyGuard
+Micro-SaaS pair — broken affiliate-link monitor + AI review-reply agent. SSRF/IDOR/prompt-injection hardened.
+`SaaS` `Security` `AI Agents`
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+## `stack.scan()`
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF6B35)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=FF6B35)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FF6B35)
+![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=FF6B35)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=FF6B35)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FF6B35)
+![Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=FF6B35)
+![OCI](https://img.shields.io/badge/Oracle_Cloud-000000?style=for-the-badge&logo=oracle&logoColor=FF6B35)
+![ESP32](https://img.shields.io/badge/ESP32/8266-000000?style=for-the-badge&logo=espressif&logoColor=FF6B35)
+
+</div>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+## `stats.render()`
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DP1110&show_icons=true&count_private=true&hide_border=true&bg_color=1a0000&title_color=FF6B35&text_color=FF8C61&icon_color=FF4500&ring_color=FF4500"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DP1110&layout=compact&hide_border=true&bg_color=1a0000&title_color=FF6B35&text_color=FF8C61&langs_count=8"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DP1110&hide_border=true&background=1A0000&ring=FF4500&fire=FF6B35&currStreakLabel=FF8C61&sideLabels=FF8C61&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FF6B3599"/>
+</div>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+## `contribution.snake()`
+
+<div align="center">
+
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/DP1110/DP1110/output/snake-dark.svg" alt="snake animation"/>
+<!--END_SECTION:snake-->
+
+</div>
+
+> Snake eats your commit graph daily via GitHub Actions. First push, wait ~2 min for the bot to render it.
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=DP1110&color=ff4500&style=for-the-badge&label=PROFILE+VIEWS"/>
+</div>
+
+<div align="center">
+<sub>Built offline-first. Deployed anyway. — @deadlydp</sub>
+</div>
