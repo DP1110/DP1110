@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B4B,50:C70039,100:900C3F&height=250&section=header&text=DP1110&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&des[...]" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B4B,50:C70039,100:900C3F&height=250&section=header&text=DP1110&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&des=" alt="Animated header" />
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=C70039&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Securing+[...])]
+[![Typing SVG](https://readme-typing-svg.vercel.app?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=C70039&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Securing+Systems+&lt;3)]
 
 <!-- Badges -->
 [![Profile Views](https://komarev.com/ghpvc/?username=DP1110&color=C70039&style=for-the-badge)](https://github.com/DP1110)
@@ -135,7 +135,7 @@ I'm a multidisciplinary technologist operating at the intersection of **AI/ML**,
 <div align="center">
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:900C3F,50:C70039,100:FF4B4B&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:900C3F,50:C70039,100:FF4B4B&height=120&section=footer" alt="Footer Capsule"/>
 
 **🔺 Red Team Mindset. Blue Team Discipline. Purple Team Execution. 🔺**
 
