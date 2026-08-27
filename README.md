@@ -96,7 +96,7 @@ I'm a multidisciplinary technologist operating at the intersection of **AI/ML**,
 
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DP1110&theme=redical&bg_color=0D1117&color=C70039&line=FF4B4B&point=FFFFFF&area=true&hide_border=false&border_color=C70039" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DP1110&theme=radical&bg_color=0D1117&color=C70039&line=FF4B4B&point=FFFFFF&area=true&hide_border=false&border_color=C70039" alt="DP1110's GitHub Activity Graph" />
 
 </div>
 
@@ -144,7 +144,7 @@ I'm a multidisciplinary technologist operating at the intersection of **AI/ML**,
 
 
 <!--
-════════════════════════════════════════════════════════════════════════[...]
+══════════════════════════════════════════════════════════════════[...]
 🐍 SNAKE ANIMATION SETUP — DO THIS ONCE:
 
 1. In your DP1110/DP1110 repo, create this file:
@@ -152,7 +152,7 @@ I'm a multidisciplinary technologist operating at the intersection of **AI/ML**,
 
 2. Paste this exact content inside:
 
-──────────────────────────────────────────────────────────────────[...] 
+────────────────────────────────────────────────────────────────[...]
 name: Generate Snake
 
 on:
@@ -176,7 +176,7 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-──────────────────────────────────────────────────────────────────[...] 
+────────────────────────────────────────────────────────────────[...]
 
 3. Commit & push the file
 4. Go to Actions → "Generate Snake" → Click "Run workflow" manually
@@ -184,5 +184,5 @@ jobs:
 
 ⚠️  If stats images don't load immediately, it's because GitHub's
     image proxy (camo) caches them. Wait 5-10 min and hard-refresh.
-════════════════════════════════════════════════════════════════════════[...]
+══════════════════════════════════════════════════════════════════[...]
 -->
