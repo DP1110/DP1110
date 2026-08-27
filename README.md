@@ -96,7 +96,7 @@ I'm a multidisciplinary technologist operating at the intersection of **AI/ML**,
 
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DP1110&theme=radical&bg_color=0D1117&color=C70039&line=FF4B4B&point=FFFFFF&area=true&hide_border=false&border_color=C70039" alt="DP1110's GitHub Activity Graph" />
+<img src="https://github.com/users/DP1110/contributions" alt="DP1110's GitHub Contributions" />
 
 </div>
 
