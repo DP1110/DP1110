@@ -6,6 +6,7 @@ const TOPICS = ['ai-agents', 'llm', 'rag', 'cybersecurity']; // edit to taste
 const DAYS = 14;        // look back window
 const MIN_STARS = 50;   // noise filter
 const LIMIT = 6;        // rows in the table
+const ENGLISH_ONLY = true; // skip repos whose description is mostly non-Latin text
 const README = new URL('../README.md', import.meta.url);
 
 const since = new Date(Date.now() - DAYS * 864e5).toISOString().slice(0, 10);
@@ -18,7 +19,7 @@ const headers = {
 
 async function searchTopic(topic) {
   const q = `topic:${topic} created:>${since} stars:>=${MIN_STARS}`;
-  const url = `https://api.github.com/search/repositories?q=${encodeURIComponent(q)}&sort=stars&order=desc&per_page=10`;
+  const url = `https://api.github.com/search/repositories?q=${encodeURIComponent(q)}&sort=stars&order=desc&per_page=20`;
   const res = await fetch(url, { headers });
   if (!res.ok) throw new Error(`Search "${topic}" failed: ${res.status}`);
   return (await res.json()).items ?? [];
@@ -34,7 +35,15 @@ for (const t of TOPICS) {
   catch (e) { console.warn(e.message); }
 }
 
+const isEnglish = (s = '') => {
+  const t = s.replace(/\s/g, '');
+  if (!t) return true;
+  const nonAscii = [...t].filter((c) => c.charCodeAt(0) > 127 && !/\p{Emoji}/u.test(c)).length;
+  return nonAscii / t.length < 0.1;
+};
+
 const unique = [...new Map(results.map((r) => [r.full_name, r])).values()]
+  .filter((r) => !ENGLISH_ONLY || isEnglish(r.description))
   .sort((a, b) => b.stargazers_count - a.stargazers_count)
   .slice(0, LIMIT);
 

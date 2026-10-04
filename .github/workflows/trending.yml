@@ -4,13 +4,14 @@ on:
   schedule:
     - cron: "30 2 * * *"  # daily, staggered from other workflows
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - '.github/workflows/trending.yml'
 
 permissions:
   contents: write
+
+# one commit-writing job at a time, so pushes never race
+concurrency:
+  group: profile-commits
+  cancel-in-progress: false
 
 jobs:
   trending:
@@ -29,4 +30,4 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --staged --quiet || (git commit -m "chore: refresh trending table" && git push)
+          git diff --staged --quiet || (git commit -m "chore: refresh trending table" && git pull --rebase && git push)
