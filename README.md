@@ -1,39 +1,49 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B4B,50:C70039,100:900C3F&height=250&section=header&text=DP1110&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&des=" alt="Animated header" />
+<img src="./assets/header.svg" alt="DP1110 — AI · Cybersecurity · Embedded · Cloud" width="100%" />
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.vercel.app?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=C70039&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Securing+Systems+&lt;3)]
+<img src="./assets/typing.svg" alt="Building intelligent systems · Securing every layer of the stack · Red-teaming LLMs and edge AI" />
 
-<!-- Badges -->
-[![Profile Views](https://komarev.com/ghpvc/?username=DP1110&color=C70039&style=for-the-badge)](https://github.com/DP1110)
-[![GitHub Pro](https://img.shields.io/badge/PRO-FF4B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DP1110)
-[![Repositories](https://img.shields.io/badge/Repos-16-900C3F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DP1110?tab=repositories)
-[![Stars](https://img.shields.io/badge/Stars-15+-C70039?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DP1110?tab=stars)
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=DP1110&color=C70039&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/DP1110)
+[![Followers](https://img.shields.io/github/followers/DP1110?style=for-the-badge&logo=github&color=900C3F&labelColor=0b0206)](https://github.com/DP1110?tab=followers)
+[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDP1110&query=%24.public_repos&label=REPOS&style=for-the-badge&logo=github&color=C70039&labelColor=0b0206)](https://github.com/DP1110?tab=repositories)
+[![Open to Work](https://img.shields.io/badge/FREELANCE-OPEN-2ea043?style=for-the-badge&labelColor=0b0206)](mailto:manedipak1110@gmail.com)
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## 🧠 About Me
+## 🧠 About
 
-> *"Where artificial intelligence meets embedded systems, and security guards every layer of the stack."*
+> *Where artificial intelligence meets embedded systems, and security guards every layer of the stack.*
 
-I'm a multidisciplinary technologist operating at the intersection of **AI/ML**, **Cybersecurity**, and **Cloud Infrastructure**. My work spans from low-level embedded systems to high-level neural[...]
+```json
+{
+  "name": "Dipak Mane",
+  "handle": "DP1110",
+  "role": "AI agent & automation developer",
+  "building": ["autonomous embedded AI systems", "RAG pipelines", "offline LLM tooling"],
+  "researching": ["adversarial ML", "LLM red teaming", "firmware reverse engineering"],
+  "stack": ["Python", "C/C++", "Rust", "FastAPI", "Docker", "Kubernetes"],
+  "ask_me_about": ["Ollama & local LLMs", "ESP8266 / IoT", "RAG with FAISS", "zero-trust design"],
+  "status": "open to freelance AI-agent & automation projects"
+}
+```
 
-- 🔭 Currently building **autonomous embedded AI systems** & **RAG pipelines**
-- 🛡️ Passionate about **offensive security**, **secure architecture**, and **zero-trust design**
-- ☁️ Architecting scalable, cloud-native solutions with modern DevSecOps practices
-- 🧩 Exploring the convergence of **LLMs**, **IoT**, and **edge computing**
+- 🔭 Currently building **autonomous embedded AI systems** and **RAG pipelines**
+- 🛡️ Passionate about **offensive security**, **secure architecture** and **zero-trust design**
+- ☁️ Shipping scalable, cloud-native systems with modern **DevSecOps**
+- 🧩 Exploring where **LLMs**, **IoT** and **edge computing** converge
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## ⚡ Tech Arsenal
 
 <div align="center">
 
-### 🤖 AI / ML / Data
+**🤖 AI / ML / Data**<br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -43,7 +53,7 @@ I'm a multidisciplinary technologist operating at the intersection of **AI/ML**,
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### ☁️ Cloud & DevOps
+**☁️ Cloud & DevOps**<br/>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -52,14 +62,14 @@ I'm a multidisciplinary technologist operating at the intersection of **AI/ML**,
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🛡️ Cybersecurity
+**🛡️ Cybersecurity**<br/>
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004D40?style=for-the-badge&logo=nmap&logoColor=white)
 
-### 🔧 Systems & Embedded
+**🔧 Systems & Embedded**<br/>
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
@@ -70,57 +80,99 @@ I'm a multidisciplinary technologist operating at the intersection of **AI/ML**,
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔴 <a href="https://github.com/DP1110/A.E.T.H.E.R">A.E.T.H.E.R</a></h3>
+      <sub><b>Autonomous Embedded Translation &amp; Host Environment Router</b></sub><br/><br/>
+      Embedded protocol router that translates between devices and hosts.<br/><br/>
+      <code>C++</code> · <code>Embedded</code> · <code>Protocol Routing</code><br/><br/>
+      <a href="https://github.com/DP1110/A.E.T.H.E.R"><img src="https://img.shields.io/github/stars/DP1110/A.E.T.H.E.R?style=flat-square&color=C70039&labelColor=0b0206" alt="stars" /></a>
+      <a href="https://github.com/DP1110/A.E.T.H.E.R"><img src="https://img.shields.io/github/last-commit/DP1110/A.E.T.H.E.R?style=flat-square&color=900C3F&labelColor=0b0206" alt="last commit" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔴 <a href="https://github.com/DP1110/naive-rag-playground">Naive RAG Playground</a></h3>
+      <sub><b>Interactive RAG with FastAPI, FAISS &amp; a glassmorphic UI</b></sub><br/><br/>
+      Hands-on sandbox to see retrieval-augmented generation work end to end.<br/><br/>
+      <code>JavaScript</code> · <code>FastAPI</code> · <code>FAISS</code> · <code>BGE Embeddings</code><br/><br/>
+      <a href="https://github.com/DP1110/naive-rag-playground"><img src="https://img.shields.io/github/stars/DP1110/naive-rag-playground?style=flat-square&color=C70039&labelColor=0b0206" alt="stars" /></a>
+      <a href="https://github.com/DP1110/naive-rag-playground"><img src="https://img.shields.io/github/last-commit/DP1110/naive-rag-playground?style=flat-square&color=900C3F&labelColor=0b0206" alt="last commit" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔴 <a href="https://github.com/DP1110/Offline-LLM-Bridge">Offline LLM Bridge</a></h3>
+      <sub><b>Private AI chat via ESP8266 &amp; Ollama</b></sub><br/><br/>
+      Talk to a local LLM with no cloud, no accounts, no data leaving the room.<br/><br/>
+      <code>C++</code> · <code>IoT</code> · <code>Edge AI</code> · <code>Offline LLM</code><br/><br/>
+      <a href="https://github.com/DP1110/Offline-LLM-Bridge"><img src="https://img.shields.io/github/stars/DP1110/Offline-LLM-Bridge?style=flat-square&color=C70039&labelColor=0b0206" alt="stars" /></a>
+      <a href="https://github.com/DP1110/Offline-LLM-Bridge"><img src="https://img.shields.io/github/last-commit/DP1110/Offline-LLM-Bridge?style=flat-square&color=900C3F&labelColor=0b0206" alt="last commit" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔴 <a href="https://github.com/DP1110/api-gateway-portfolio">API Gateway Portfolio</a></h3>
+      <sub><b>Scalable API gateway architecture</b></sub><br/><br/>
+      Cloud-native gateway design across microservices.<br/><br/>
+      <code>Python</code> · <code>Cloud Native</code> · <code>Microservices</code><br/><br/>
+      <a href="https://github.com/DP1110/api-gateway-portfolio"><img src="https://img.shields.io/github/stars/DP1110/api-gateway-portfolio?style=flat-square&color=C70039&labelColor=0b0206" alt="stars" /></a>
+      <a href="https://github.com/DP1110/api-gateway-portfolio"><img src="https://img.shields.io/github/last-commit/DP1110/api-gateway-portfolio?style=flat-square&color=900C3F&labelColor=0b0206" alt="last commit" /></a>
+    </td>
+  </tr>
+</table>
 
-| 🔴 **A.E.T.H.E.R** | 🔴 **Naive RAG Playground** |
-|:---:|:---:|
-| **Autonomous Embedded Translation & Host Environment Router** | **Interactive RAG with FastAPI, FAISS & Glassmorphic UI** |
-| `C++` · Embedded Systems · Protocol Routing | `JavaScript` · FastAPI · FAISS · BGE Embeddings |
-| [View Repo →](https://github.com/DP1110/A.E.T.H.E.R) | [View Repo →](https://github.com/DP1110/naive-rag-playground) |
-
-| 🔴 **Offline LLM Bridge** | 🔴 **API Gateway Portfolio** |
-|:---:|:---:|
-| **Private AI Chat via ESP8266 & Ollama** | **Scalable API Gateway Architecture** |
-| `C++` · IoT · Edge AI · Offline LLM | `Python` · Cloud Native · Microservices |
-| [View Repo →](https://github.com/DP1110/Offline-LLM-Bridge) | [View Repo →](https://github.com/DP1110/api-gateway-portfolio) |
-
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
+<!-- Generated by .github/workflows/summary-cards.yml → no third-party server, no rate limits -->
+<img src="./profile-summary-card-output/radical/0-profile-details.svg" alt="Profile details" width="49%" />
+<img src="./profile-summary-card-output/radical/3-stats.svg" alt="GitHub stats" width="49%" />
+<img src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most used languages by commits" width="49%" />
+<img src="./profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per language" width="49%" />
+<img src="./profile-summary-card-output/radical/4-productive-time.svg" alt="Productive time of day" width="98%" />
 
-<!-- Activity Graph -->
-<img src="https://github.com/users/DP1110/contributions" alt="DP1110's GitHub Contributions" />
+<br/><br/>
+
+<!-- Generated by .github/workflows/snake.yml → lives on the `output` branch -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/DP1110/DP1110/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DP1110/DP1110/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/DP1110/DP1110/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 🔥 Trending in My Lane
+
+Fresh repos (last 2 weeks) in AI agents, LLMs, RAG and security. Refreshed daily by an Action.
+
+<!--TRENDING:START-->
+| Repo | What it does | Lang | Stars |
+|:--|:--|:--:|--:|
+| _first run pending_ | Run the **Update Trending** workflow once to fill this table | — | — |
+<!--TRENDING:END-->
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## 🎯 Current Focus
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🔴  RED TEAMING    │  🤖  LLM OPS      │  ☁️  MULTI-CLOUD  │
-├─────────────────────────────────────────────────────────────┤
-│  • Adversarial ML     │  • RAG Pipelines    │  • Kubernetes    │
-│  • Firmware RE        │  • Fine-tuning      │  • Serverless    │
-│  • Network Pentest    │  • Agentic AI       │  • IaC (TF/Pulumi)│
-│  • Zero Trust Arch    │  • Edge Deployment  │  • Observability │
-└─────────────────────────────────────────────────────────────┘
-```
+| 🔴 Red Teaming | 🤖 LLM Ops | ☁️ Multi-Cloud |
+|:--|:--|:--|
+| Adversarial ML | RAG pipelines | Kubernetes |
+| Firmware RE | Fine-tuning | Serverless |
+| Network pentesting | Agentic AI | IaC (Terraform / Pulumi) |
+| Zero-trust architecture | Edge deployment | Observability |
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-
----
-
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <div align="center">
 
@@ -128,61 +180,8 @@ I'm a multidisciplinary technologist operating at the intersection of **AI/ML**,
 [![Portfolio](https://img.shields.io/badge/Portfolio-C70039?style=for-the-badge&logo=firefox&logoColor=white)](https://DP1110.github.io)
 [![Email](https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manedipak1110@gmail.com)
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:900C3F,50:C70039,100:FF4B4B&height=120&section=footer" alt="Footer Capsule"/>
-
-**🔺 Red Team Mindset. Blue Team Discipline. Purple Team Execution. 🔺**
+<img src="./assets/footer.svg" width="100%" alt="Red team mindset. Blue team discipline. Purple team execution." />
 
 </div>
-
-
-
-<!--
-══════════════════════════════════════════════════════════════════[...]
-🐍 SNAKE ANIMATION SETUP — DO THIS ONCE:
-
-1. In your DP1110/DP1110 repo, create this file:
-   .github/workflows/snake.yml
-
-2. Paste this exact content inside:
-
-────────────────────────────────────────────────────────────────[...]
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: DP1110
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-────────────────────────────────────────────────────────────────[...]
-
-3. Commit & push the file
-4. Go to Actions → "Generate Snake" → Click "Run workflow" manually
-5. Wait ~1 minute, then refresh your profile — the snake will appear!
-
-⚠️  If stats images don't load immediately, it's because GitHub's
-    image proxy (camo) caches them. Wait 5-10 min and hard-refresh.
-══════════════════════════════════════════════════════════════════[...]
--->
