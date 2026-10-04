@@ -158,14 +158,14 @@ Fresh repos (last 2 weeks) in AI agents, LLMs, RAG and security. Refreshed daily
 <!--TRENDING:START-->
 | Repo | What it does | Lang | Stars |
 |:--|:--|:--:|--:|
-| [**jev-chat/jev-chat-jarvis**](https://github.com/jev-chat/jev-chat-jarvis) | 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。 | Kotlin | ⭐ 7.3k |
-| [**KKKKhazix/AIHOT**](https://github.com/KKKKhazix/AIHOT) | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 | TypeScript | ⭐ 5.7k |
-| [**yetone/magpie**](https://github.com/yetone/magpie) | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. | Go | ⭐ 4.8k |
-| [**Louis-CFM/coucou**](https://github.com/Louis-CFM/coucou) | A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Lin… | Swift | ⭐ 3.4k |
-| [**feder-cr/dots**](https://github.com/feder-cr/dots) | Open-source dots for the web: an AI agent with its own browser, one that does not get blo… | Python | ⭐ 2.6k |
-| [**nanaism/yomiyasu**](https://github.com/nanaism/yomiyasu) | AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Nat… | Python | ⭐ 1.4k |
+| [**yetone/magpie**](https://github.com/yetone/magpie) | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. | Go | â­ 4.8k |
+| [**Louis-CFM/coucou**](https://github.com/Louis-CFM/coucou) | A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linâ€¦ | Swift | â­ 3.4k |
+| [**feder-cr/dots**](https://github.com/feder-cr/dots) | Open-source dots for the web: an AI agent with its own browser, one that does not get bloâ€¦ | Python | â­ 2.6k |
+| [**edenfunf/reelmimic**](https://github.com/edenfunf/reelmimic) | Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Câ€¦ | JavaScript | â­ 1.3k |
+| [**mikehasa/golive-skill**](https://github.com/mikehasa/golive-skill) | Take your agent-built product live: hosting, database, domain, email, payments — on yourâ€¦ | TypeScript | â­ 1.2k |
+| [**nokia-applied-research/AnyJev**](https://github.com/nokia-applied-research/AnyJev) | Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no traâ€¦ | Python | â­ 1k |
 
-<sub>Auto-updated 2026-10-04 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
+<sub>Auto-updated 2026-10-04 Â· new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
 <!--TRENDING:END-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
