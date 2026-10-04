@@ -6,36 +6,38 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=DP1110&color=C70039&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/DP1110)
-[![Followers](https://img.shields.io/github/followers/DP1110?style=for-the-badge&logo=github&color=900C3F&labelColor=0b0206)](https://github.com/DP1110?tab=followers)
-[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDP1110&query=%24.public_repos&label=REPOS&style=for-the-badge&logo=github&color=C70039&labelColor=0b0206)](https://github.com/DP1110?tab=repositories)
-[![Open to Work](https://img.shields.io/badge/FREELANCE-OPEN-2ea043?style=for-the-badge&labelColor=0b0206)](mailto:manedipak1110@gmail.com)
+[![Followers](https://img.shields.io/github/followers/DP1110?style=for-the-badge&logo=github&color=0099FF&labelColor=05080A)](https://github.com/DP1110?tab=followers)
+[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDP1110&query=%24.public_repos&label=REPOS&style=for-the-badge&logo=github&color=00D9FF&labelColor=05080A)](https://github.com/DP1110?tab=repositories)
+[![Open to Work](https://img.shields.io/badge/FREELANCE-OPEN-00F5A0?style=for-the-badge&labelColor=05080A)](mailto:manedipak1110@gmail.com)
 
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## 🧠 About
+## 🪪 Identity
 
-> *Where artificial intelligence meets embedded systems, and security guards every layer of the stack.*
-
-```json
-{
-  "name": "Dipak Mane",
-  "handle": "DP1110",
-  "role": "AI agent & automation developer",
-  "building": ["autonomous embedded AI systems", "RAG pipelines", "offline LLM tooling"],
-  "researching": ["adversarial ML", "LLM red teaming", "firmware reverse engineering"],
-  "stack": ["Python", "C/C++", "Rust", "FastAPI", "Docker", "Kubernetes"],
-  "ask_me_about": ["Ollama & local LLMs", "ESP8266 / IoT", "RAG with FAISS", "zero-trust design"],
-  "status": "open to freelance AI-agent & automation projects"
-}
-```
-
-- 🔭 Currently building **autonomous embedded AI systems** and **RAG pipelines**
-- 🛡️ Passionate about **offensive security**, **secure architecture** and **zero-trust design**
-- ☁️ Shipping scalable, cloud-native systems with modern **DevSecOps**
-- 🧩 Exploring where **LLMs**, **IoT** and **edge computing** converge
+<table>
+  <tr>
+    <td width="46%" align="center" valign="middle">
+      <img src="./assets/id-card.svg" width="400" alt="Identity card: Dipak Mane, DP1110, AI agent and automation developer. Open to freelance projects." />
+    </td>
+    <td width="54%" valign="middle">
+      <h3>🧠 About</h3>
+      <blockquote><i>Where artificial intelligence meets embedded systems, and security guards every layer of the stack.</i></blockquote>
+      <ul>
+        <li>🔭 Building <b>autonomous embedded AI systems</b> and <b>RAG pipelines</b></li>
+        <li>🛡️ Passionate about <b>offensive security</b>, <b>secure architecture</b> and <b>zero-trust design</b></li>
+        <li>☁️ Shipping cloud-native systems with modern <b>DevSecOps</b></li>
+        <li>🧩 Exploring where <b>LLMs</b>, <b>IoT</b> and <b>edge computing</b> converge</li>
+        <li>🟢 Open to <b>freelance AI-agent &amp; automation</b> projects</li>
+      </ul>
+      <h3>🌐 Connect</h3>
+      <a href="https://www.linkedin.com/in/dipak-mane-b59493272"><img src="https://img.shields.io/badge/LinkedIn-0057B8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+      <a href="https://DP1110.github.io"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=firefox&logoColor=05080A" alt="Portfolio" /></a>
+      <a href="mailto:manedipak1110@gmail.com"><img src="https://img.shields.io/badge/Email-7C5CFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    </td>
+  </tr>
+</table>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -87,38 +89,38 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔴 <a href="https://github.com/DP1110/A.E.T.H.E.R">A.E.T.H.E.R</a></h3>
+      <h3>🔹 <a href="https://github.com/DP1110/A.E.T.H.E.R">A.E.T.H.E.R</a></h3>
       <sub><b>Autonomous Embedded Translation &amp; Host Environment Router</b></sub><br/><br/>
       Embedded protocol router that translates between devices and hosts.<br/><br/>
       <code>C++</code> · <code>Embedded</code> · <code>Protocol Routing</code><br/><br/>
-      <a href="https://github.com/DP1110/A.E.T.H.E.R"><img src="https://img.shields.io/github/stars/DP1110/A.E.T.H.E.R?style=flat-square&color=C70039&labelColor=0b0206" alt="stars" /></a>
-      <a href="https://github.com/DP1110/A.E.T.H.E.R"><img src="https://img.shields.io/github/last-commit/DP1110/A.E.T.H.E.R?style=flat-square&color=900C3F&labelColor=0b0206" alt="last commit" /></a>
+      <a href="https://github.com/DP1110/A.E.T.H.E.R"><img src="https://img.shields.io/github/stars/DP1110/A.E.T.H.E.R?style=flat-square&color=00D9FF&labelColor=05080A" alt="stars" /></a>
+      <a href="https://github.com/DP1110/A.E.T.H.E.R"><img src="https://img.shields.io/github/last-commit/DP1110/A.E.T.H.E.R?style=flat-square&color=7C5CFF&labelColor=05080A" alt="last commit" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔴 <a href="https://github.com/DP1110/naive-rag-playground">Naive RAG Playground</a></h3>
+      <h3>🔹 <a href="https://github.com/DP1110/naive-rag-playground">Naive RAG Playground</a></h3>
       <sub><b>Interactive RAG with FastAPI, FAISS &amp; a glassmorphic UI</b></sub><br/><br/>
       Hands-on sandbox to see retrieval-augmented generation work end to end.<br/><br/>
       <code>JavaScript</code> · <code>FastAPI</code> · <code>FAISS</code> · <code>BGE Embeddings</code><br/><br/>
-      <a href="https://github.com/DP1110/naive-rag-playground"><img src="https://img.shields.io/github/stars/DP1110/naive-rag-playground?style=flat-square&color=C70039&labelColor=0b0206" alt="stars" /></a>
-      <a href="https://github.com/DP1110/naive-rag-playground"><img src="https://img.shields.io/github/last-commit/DP1110/naive-rag-playground?style=flat-square&color=900C3F&labelColor=0b0206" alt="last commit" /></a>
+      <a href="https://github.com/DP1110/naive-rag-playground"><img src="https://img.shields.io/github/stars/DP1110/naive-rag-playground?style=flat-square&color=00D9FF&labelColor=05080A" alt="stars" /></a>
+      <a href="https://github.com/DP1110/naive-rag-playground"><img src="https://img.shields.io/github/last-commit/DP1110/naive-rag-playground?style=flat-square&color=7C5CFF&labelColor=05080A" alt="last commit" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔴 <a href="https://github.com/DP1110/Offline-LLM-Bridge">Offline LLM Bridge</a></h3>
+      <h3>🔹 <a href="https://github.com/DP1110/Offline-LLM-Bridge">Offline LLM Bridge</a></h3>
       <sub><b>Private AI chat via ESP8266 &amp; Ollama</b></sub><br/><br/>
       Talk to a local LLM with no cloud, no accounts, no data leaving the room.<br/><br/>
       <code>C++</code> · <code>IoT</code> · <code>Edge AI</code> · <code>Offline LLM</code><br/><br/>
-      <a href="https://github.com/DP1110/Offline-LLM-Bridge"><img src="https://img.shields.io/github/stars/DP1110/Offline-LLM-Bridge?style=flat-square&color=C70039&labelColor=0b0206" alt="stars" /></a>
-      <a href="https://github.com/DP1110/Offline-LLM-Bridge"><img src="https://img.shields.io/github/last-commit/DP1110/Offline-LLM-Bridge?style=flat-square&color=900C3F&labelColor=0b0206" alt="last commit" /></a>
+      <a href="https://github.com/DP1110/Offline-LLM-Bridge"><img src="https://img.shields.io/github/stars/DP1110/Offline-LLM-Bridge?style=flat-square&color=00D9FF&labelColor=05080A" alt="stars" /></a>
+      <a href="https://github.com/DP1110/Offline-LLM-Bridge"><img src="https://img.shields.io/github/last-commit/DP1110/Offline-LLM-Bridge?style=flat-square&color=7C5CFF&labelColor=05080A" alt="last commit" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔴 <a href="https://github.com/DP1110/api-gateway-portfolio">API Gateway Portfolio</a></h3>
+      <h3>🔹 <a href="https://github.com/DP1110/api-gateway-portfolio">API Gateway Portfolio</a></h3>
       <sub><b>Scalable API gateway architecture</b></sub><br/><br/>
       Cloud-native gateway design across microservices.<br/><br/>
       <code>Python</code> · <code>Cloud Native</code> · <code>Microservices</code><br/><br/>
-      <a href="https://github.com/DP1110/api-gateway-portfolio"><img src="https://img.shields.io/github/stars/DP1110/api-gateway-portfolio?style=flat-square&color=C70039&labelColor=0b0206" alt="stars" /></a>
-      <a href="https://github.com/DP1110/api-gateway-portfolio"><img src="https://img.shields.io/github/last-commit/DP1110/api-gateway-portfolio?style=flat-square&color=900C3F&labelColor=0b0206" alt="last commit" /></a>
+      <a href="https://github.com/DP1110/api-gateway-portfolio"><img src="https://img.shields.io/github/stars/DP1110/api-gateway-portfolio?style=flat-square&color=00D9FF&labelColor=05080A" alt="stars" /></a>
+      <a href="https://github.com/DP1110/api-gateway-portfolio"><img src="https://img.shields.io/github/last-commit/DP1110/api-gateway-portfolio?style=flat-square&color=7C5CFF&labelColor=05080A" alt="last commit" /></a>
     </td>
   </tr>
 </table>
@@ -130,11 +132,11 @@
 <div align="center">
 
 <!-- Generated by .github/workflows/summary-cards.yml → no third-party server, no rate limits -->
-<img src="./profile-summary-card-output/radical/0-profile-details.svg" alt="Profile details" width="49%" />
-<img src="./profile-summary-card-output/radical/3-stats.svg" alt="GitHub stats" width="49%" />
-<img src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most used languages by commits" width="49%" />
-<img src="./profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per language" width="49%" />
-<img src="./profile-summary-card-output/radical/4-productive-time.svg" alt="Productive time of day" width="98%" />
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" width="49%" />
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" width="49%" />
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages by commits" width="49%" />
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" width="49%" />
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time of day" width="98%" />
 
 <br/><br/>
 
@@ -163,7 +165,7 @@ Fresh repos (last 2 weeks) in AI agents, LLMs, RAG and security. Refreshed daily
 
 ## 🎯 Current Focus
 
-| 🔴 Red Teaming | 🤖 LLM Ops | ☁️ Multi-Cloud |
+| 🛡️ Red Teaming | 🤖 LLM Ops | ☁️ Multi-Cloud |
 |:--|:--|:--|
 | Adversarial ML | RAG pipelines | Kubernetes |
 | Firmware RE | Fine-tuning | Serverless |
@@ -172,15 +174,7 @@ Fresh repos (last 2 weeks) in AI agents, LLMs, RAG and security. Refreshed daily
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## 🌐 Let's Connect
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipak-mane-b59493272)
-[![Portfolio](https://img.shields.io/badge/Portfolio-C70039?style=for-the-badge&logo=firefox&logoColor=white)](https://DP1110.github.io)
-[![Email](https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manedipak1110@gmail.com)
-
-<br/>
 
 <img src="./assets/footer.svg" width="100%" alt="Red team mindset. Blue team discipline. Purple team execution." />
 

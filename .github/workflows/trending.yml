@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: "30 2 * * *"  # daily, staggered from other workflows
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/trending.yml'
 
 permissions:
   contents: write

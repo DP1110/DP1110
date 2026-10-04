@@ -11,9 +11,9 @@
     </rect></clipPath>
   </defs>
   <g font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="22" font-weight="700">
-    <text x="24" y="31" fill="#C70039">❯</text>
-    <text x="56" y="31" fill="#FF4B4B" clip-path="url(#c1)">Building intelligent systems</text>
-    <text x="56" y="31" fill="#FF4B4B" clip-path="url(#c2)">Securing every layer of the stack</text>
-    <text x="56" y="31" fill="#FF4B4B" clip-path="url(#c3)">Red-teaming LLMs &amp; edge AI</text>
+    <text x="24" y="31" fill="#7C5CFF">❯</text>
+    <text x="56" y="31" fill="#00D9FF" clip-path="url(#c1)">Building intelligent systems</text>
+    <text x="56" y="31" fill="#A855F7" clip-path="url(#c2)">Securing every layer of the stack</text>
+    <text x="56" y="31" fill="#00F5A0" clip-path="url(#c3)">Red-teaming LLMs &amp; edge AI</text>
   </g>
 </svg>
