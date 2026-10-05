@@ -1,0 +1,62 @@
+name: Theme Switch
+
+on:
+  issues:
+    types: [opened]
+  workflow_dispatch:
+    inputs:
+      theme:
+        description: "Theme to apply"
+        required: true
+        default: next
+        type: choice
+        options: [next, previous, random, neon-cyan, ultraviolet, matrix-green, magenta-pulse, solar-amber, signal-red]
+
+permissions:
+  contents: write
+  issues: write
+
+# one commit-writing job at a time, so pushes never race
+concurrency:
+  group: profile-commits
+  cancel-in-progress: false
+
+jobs:
+  switch:
+    # Visitor buttons open an issue titled "theme: <name>". To turn visitor switching off,
+    # add a repo variable THEME_VISITORS=off (Settings > Secrets and variables > Actions > Variables).
+    if: >
+      github.event_name == 'workflow_dispatch' ||
+      (startsWith(github.event.issue.title, 'theme:') && vars.THEME_VISITORS != 'off')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Apply theme
+        id: apply
+        env:
+          REQUEST: ${{ github.event.inputs.theme || github.event.issue.title }}
+        run: node scripts/apply-theme.mjs --request "$REQUEST"
+      - name: Commit
+        if: steps.apply.outputs.valid == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A assets/theme themes.json README.md
+          git diff --staged --quiet || (git commit -m "theme: ${{ steps.apply.outputs.theme }}" && git pull --rebase && git push)
+      - name: Reply and close issue
+        if: github.event_name == 'issues'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          VALID: ${{ steps.apply.outputs.valid }}
+          LABEL: ${{ steps.apply.outputs.label }}
+          OPTIONS: ${{ steps.apply.outputs.options }}
+        run: |
+          if [ "$VALID" = "true" ]; then
+            gh issue comment "${{ github.event.issue.number }}" --body "Theme is now **$LABEL**. Refresh the profile in a minute (Ctrl+Shift+R)."
+          else
+            gh issue comment "${{ github.event.issue.number }}" --body "Unknown theme. Use: next, previous, random, $OPTIONS."
+          fi
+          gh issue close "${{ github.event.issue.number }}" --reason completed

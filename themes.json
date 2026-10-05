@@ -1,0 +1,71 @@
+{
+  "current": "neon-cyan",
+  "themes": {
+    "neon-cyan": {
+      "label": "Neon Cyan",
+      "a1": "#00D9FF",
+      "a2": "#0099FF",
+      "a3": "#7C5CFF",
+      "a4": "#A855F7",
+      "a5": "#FF3CAC",
+      "ok": "#00F5A0",
+      "glow": "#3DEBFF",
+      "deep": "#0057B8"
+    },
+    "ultraviolet": {
+      "label": "Ultraviolet",
+      "a1": "#A855F7",
+      "a2": "#7C5CFF",
+      "a3": "#FF3CAC",
+      "a4": "#C084FC",
+      "a5": "#00D9FF",
+      "ok": "#00F5A0",
+      "glow": "#D8B4FE",
+      "deep": "#4C1D95"
+    },
+    "matrix-green": {
+      "label": "Matrix Green",
+      "a1": "#00F5A0",
+      "a2": "#20E0C0",
+      "a3": "#00B8A9",
+      "a4": "#00C878",
+      "a5": "#00D9FF",
+      "ok": "#3DEBFF",
+      "glow": "#7DFFC9",
+      "deep": "#00714A"
+    },
+    "magenta-pulse": {
+      "label": "Magenta Pulse",
+      "a1": "#FF3CAC",
+      "a2": "#A855F7",
+      "a3": "#7C5CFF",
+      "a4": "#FF6B35",
+      "a5": "#00D9FF",
+      "ok": "#00F5A0",
+      "glow": "#FF9BD6",
+      "deep": "#8A1F61"
+    },
+    "solar-amber": {
+      "label": "Solar Amber",
+      "a1": "#FFB020",
+      "a2": "#FF6B35",
+      "a3": "#FF4D5A",
+      "a4": "#FF3CAC",
+      "a5": "#FFD27A",
+      "ok": "#00F5A0",
+      "glow": "#FFD580",
+      "deep": "#7A4A00"
+    },
+    "signal-red": {
+      "label": "Signal Red",
+      "a1": "#FF4B4B",
+      "a2": "#C70039",
+      "a3": "#900C3F",
+      "a4": "#FF3CAC",
+      "a5": "#FFB020",
+      "ok": "#00F5A0",
+      "glow": "#FF8A8A",
+      "deep": "#5C0A27"
+    }
+  }
+}

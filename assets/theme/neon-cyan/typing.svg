@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="48" viewBox="0 0 640 48" role="img" aria-label="Building intelligent systems. Securing every layer of the stack. Red-teaming LLMs and edge AI.">
+  <defs>
+    <clipPath id="c1"><rect x="0" y="0" height="48" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" keyTimes="0;0.125;0.30;0.3333;1" values="0;520;520;0;0"/>
+    </rect></clipPath>
+    <clipPath id="c2"><rect x="0" y="0" height="48" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" keyTimes="0;0.3333;0.4583;0.6333;0.6666;1" values="0;0;520;520;0;0"/>
+    </rect></clipPath>
+    <clipPath id="c3"><rect x="0" y="0" height="48" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" keyTimes="0;0.6666;0.7916;0.9666;1" values="0;0;520;520;0"/>
+    </rect></clipPath>
+  </defs>
+  <g font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="22" font-weight="700">
+    <text x="24" y="31" fill="#7C5CFF">❯</text>
+    <text x="56" y="31" fill="#00D9FF" clip-path="url(#c1)">Building intelligent systems</text>
+    <text x="56" y="31" fill="#A855F7" clip-path="url(#c2)">Securing every layer of the stack</text>
+    <text x="56" y="31" fill="#00F5A0" clip-path="url(#c3)">Red-teaming LLMs &amp; edge AI</text>
+  </g>
+</svg>

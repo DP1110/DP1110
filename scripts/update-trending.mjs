@@ -26,7 +26,7 @@ async function searchTopic(topic) {
 }
 
 const esc = (s = '') => s.replace(/\|/g, '\\|').replace(/\s+/g, ' ').trim();
-const cut = (s = '', n = 90) => (s.length > n ? s.slice(0, n - 1).trimEnd() + 'â€¦' : s);
+const cut = (s = '', n = 90) => (s.length > n ? s.slice(0, n - 1).trimEnd() + '…' : s);
 const fmt = (n) => (n >= 1000 ? (n / 1000).toFixed(1).replace(/\.0$/, '') + 'k' : String(n));
 
 const results = [];
@@ -36,15 +36,17 @@ for (const t of TOPICS) {
 }
 
 // English-only: reject any non-Latin script (CJK, Hangul, Cyrillic, Arabic, Thai, Hindi...).
+// If the text has accents (French/Spanish/etc.), it must also contain common English words.
 const NON_LATIN = /[\p{Script=Han}\p{Script=Hiragana}\p{Script=Katakana}\p{Script=Hangul}\p{Script=Cyrillic}\p{Script=Arabic}\p{Script=Hebrew}\p{Script=Thai}\p{Script=Devanagari}\p{Script=Greek}]/u;
 const STOP = new Set(['the','and','for','with','your','you','to','of','in','on','is','it','that','this','from','by','as','are','be','an','or','any','into','built','using']);
 const isEnglish = (s = '') => {
-  if (!s.trim()) return false;
+  if (!s.trim()) return false;                 // no description = not useful
   if (NON_LATIN.test(s)) return false;
   const hasAccents = /[^\u0000-\u007f\u2010-\u2027\u2190-\u21ff\u2600-\u27bf\u{1F000}-\u{1FAFF}]/u.test(s);
   if (!hasAccents) return true;
   return s.toLowerCase().split(/[^a-z]+/).filter((w) => STOP.has(w)).length >= 2;
 };
+
 const unique = [...new Map(results.map((r) => [r.full_name, r])).values()]
   .filter((r) => !ENGLISH_ONLY || isEnglish(r.description))
   .sort((a, b) => b.stargazers_count - a.stargazers_count)
@@ -56,7 +58,7 @@ if (!unique.length) {
 }
 
 const rows = unique.map((r) =>
-  `| [**${r.full_name}**](${r.html_url}) | ${esc(cut(r.description ?? ''))} | ${esc(r.language ?? 'â€”')} | â­ ${fmt(r.stargazers_count)} |`
+  `| [**${r.full_name}**](${r.html_url}) | ${esc(cut(r.description ?? ''))} | ${esc(r.language ?? '—')} | ⭐ ${fmt(r.stargazers_count)} |`
 );
 const stamp = new Date().toISOString().slice(0, 10);
 const table = [
@@ -64,7 +66,7 @@ const table = [
   '|:--|:--|:--:|--:|',
   ...rows,
   '',
-  `<sub>Auto-updated ${stamp} Â· new repos from the last ${DAYS} days in ${TOPICS.map((t) => `\`${t}\``).join(', ')}</sub>`,
+  `<sub>Auto-updated ${stamp} · new repos from the last ${DAYS} days in ${TOPICS.map((t) => `\`${t}\``).join(', ')}</sub>`,
 ].join('\n');
 
 const readme = await readFile(README, 'utf8');

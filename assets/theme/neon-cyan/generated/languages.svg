@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="270" viewBox="0 0 420 270" role="img" aria-label="Top languages: Python, JavaScript, Jupyter Notebook, Kotlin, C++, HTML">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A1014"/><stop offset="1" stop-color="#11191F"/></linearGradient>
+    <linearGradient id="flow" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="420" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#00D9FF"/><stop offset="0.5" stop-color="#0099FF"/><stop offset="1" stop-color="#7C5CFF"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-420 0;420 0;-420 0" dur="10s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="blur" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="4"/></filter>
+    
+  </defs>
+  <rect x="1" y="1" width="418" height="268" rx="16" fill="url(#bg)" stroke="#202B33"/>
+  <rect x="1" y="1" width="418" height="268" rx="16" fill="none" stroke="url(#flow)" stroke-width="1.5" opacity="0.85"/>
+
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.067;1" dur="0.75s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0" keyTimes="0;0.067;1" dur="0.75s" fill="freeze"/><text x="30" y="40" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="700" fill="#FFFFFF">Top Languages</text></g>
+  <clipPath id="barclip"><rect x="30" y="62" width="360" height="14" rx="7"><animate attributeName="width" values="0;360" dur="1.4s" fill="freeze"/></rect></clipPath>
+  <rect x="30" y="62" width="360" height="14" rx="7" fill="#33414B" fill-opacity="0.3"/>
+  <g clip-path="url(#barclip)"><rect x="30.0" y="62" width="272.2" height="14" fill="#00D9FF"/><rect x="302.2" y="62" width="39.5" height="14" fill="#0099FF"/><rect x="341.7" y="62" width="22.0" height="14" fill="#7C5CFF"/><rect x="363.7" y="62" width="13.2" height="14" fill="#A855F7"/><rect x="376.8" y="62" width="8.8" height="14" fill="#FF3CAC"/><rect x="385.6" y="62" width="4.4" height="14" fill="#00F5A0"/></g>
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.300;1" dur="1.00s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0" keyTimes="0;0.300;1" dur="1.00s" fill="freeze"/><circle cx="36" cy="104" r="5" fill="#00D9FF"/>
+    <text x="50" y="108" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#E8F1F5">Python</text>
+    <rect x="200" y="99" width="140" height="6" rx="3" fill="#33414B" fill-opacity="0.35"/>
+    <rect x="200" y="99" width="105.9" height="6" rx="3" fill="#00D9FF"><animate attributeName="width" values="0;0;105.9" keyTimes="0;0.357;1" dur="1.40s" fill="freeze"/></rect>
+    <text x="390" y="108" text-anchor="end" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#9AA7AF">75.6%</text></g><g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.364;1" dur="1.10s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0" keyTimes="0;0.364;1" dur="1.10s" fill="freeze"/><circle cx="36" cy="129" r="5" fill="#0099FF"/>
+    <text x="50" y="133" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#E8F1F5">JavaScript</text>
+    <rect x="200" y="124" width="140" height="6" rx="3" fill="#33414B" fill-opacity="0.35"/>
+    <rect x="200" y="124" width="15.4" height="6" rx="3" fill="#0099FF"><animate attributeName="width" values="0;0;15.4" keyTimes="0;0.408;1" dur="1.52s" fill="freeze"/></rect>
+    <text x="390" y="133" text-anchor="end" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#9AA7AF">11.0%</text></g><g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.417;1" dur="1.20s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0" keyTimes="0;0.417;1" dur="1.20s" fill="freeze"/><circle cx="36" cy="154" r="5" fill="#7C5CFF"/>
+    <text x="50" y="158" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#E8F1F5">Jupyter Notebook</text>
+    <rect x="200" y="149" width="140" height="6" rx="3" fill="#33414B" fill-opacity="0.35"/>
+    <rect x="200" y="149" width="8.5" height="6" rx="3" fill="#7C5CFF"><animate attributeName="width" values="0;0;8.5" keyTimes="0;0.451;1" dur="1.64s" fill="freeze"/></rect>
+    <text x="390" y="158" text-anchor="end" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#9AA7AF">6.1%</text></g><g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.462;1" dur="1.30s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0" keyTimes="0;0.462;1" dur="1.30s" fill="freeze"/><circle cx="36" cy="179" r="5" fill="#A855F7"/>
+    <text x="50" y="183" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#E8F1F5">Kotlin</text>
+    <rect x="200" y="174" width="140" height="6" rx="3" fill="#33414B" fill-opacity="0.35"/>
+    <rect x="200" y="174" width="5.1" height="6" rx="3" fill="#A855F7"><animate attributeName="width" values="0;0;5.1" keyTimes="0;0.489;1" dur="1.76s" fill="freeze"/></rect>
+    <text x="390" y="183" text-anchor="end" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#9AA7AF">3.7%</text></g><g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.500;1" dur="1.40s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0" keyTimes="0;0.500;1" dur="1.40s" fill="freeze"/><circle cx="36" cy="204" r="5" fill="#FF3CAC"/>
+    <text x="50" y="208" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#E8F1F5">C++</text>
+    <rect x="200" y="199" width="140" height="6" rx="3" fill="#33414B" fill-opacity="0.35"/>
+    <rect x="200" y="199" width="3.4" height="6" rx="3" fill="#FF3CAC"><animate attributeName="width" values="0;0;3.4" keyTimes="0;0.521;1" dur="1.88s" fill="freeze"/></rect>
+    <text x="390" y="208" text-anchor="end" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#9AA7AF">2.4%</text></g><g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.533;1" dur="1.50s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 10;0 10;0 0" keyTimes="0;0.533;1" dur="1.50s" fill="freeze"/><circle cx="36" cy="229" r="5" fill="#00F5A0"/>
+    <text x="50" y="233" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#E8F1F5">HTML</text>
+    <rect x="200" y="224" width="140" height="6" rx="3" fill="#33414B" fill-opacity="0.35"/>
+    <rect x="200" y="224" width="3.0" height="6" rx="3" fill="#00F5A0"><animate attributeName="width" values="0;0;3.0" keyTimes="0;0.550;1" dur="2.00s" fill="freeze"/></rect>
+    <text x="390" y="233" text-anchor="end" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#9AA7AF">1.2%</text></g>
+</svg>

@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/theme/neon-cyan/header.svg" alt="DP1110 — AI · Cybersecurity · Embedded · Cloud" width="100%" />
+<img src="./assets/theme/{{THEME}}/header.svg" alt="DP1110 — AI · Cybersecurity · Embedded · Cloud" width="100%" />
 
-<img src="./assets/theme/neon-cyan/typing.svg" alt="Building intelligent systems · Securing every layer of the stack · Red-teaming LLMs and edge AI" />
+<img src="./assets/theme/{{THEME}}/typing.svg" alt="Building intelligent systems · Securing every layer of the stack · Red-teaming LLMs and edge AI" />
 
 <br/>
 
@@ -13,29 +13,16 @@
 
 </div>
 
-<div align="center">
+{{THEME_PICKER}}
 
-<a href="https://github.com/DP1110/DP1110/issues/new?title=theme%3A%20next&body=Press%20%22Submit%20new%20issue%22%20to%20switch%20the%20profile%20theme.%20A%20bot%20applies%20it%20and%20closes%20this%20issue%20in%20about%20a%20minute."><img src="https://img.shields.io/badge/%F0%9F%8E%A8_NEXT_THEME_%E2%96%B6-ULTRAVIOLET-00D9FF?style=for-the-badge&labelColor=05080A&color=00D9FF" alt="Switch to the next theme" /></a>
-
-[![Neon Cyan](https://img.shields.io/badge/%E2%96%B6_NEON_CYAN-00D9FF?style=for-the-badge&labelColor=05080A&color=00D9FF)](https://github.com/DP1110/DP1110/issues/new?title=theme%3A%20neon-cyan&body=Press%20%22Submit%20new%20issue%22%20to%20switch%20the%20profile%20theme.%20A%20bot%20applies%20it%20and%20closes%20this%20issue%20in%20about%20a%20minute.)
-[![Ultraviolet](https://img.shields.io/badge/ULTRAVIOLET-A855F7?style=for-the-badge&labelColor=05080A&color=A855F7)](https://github.com/DP1110/DP1110/issues/new?title=theme%3A%20ultraviolet&body=Press%20%22Submit%20new%20issue%22%20to%20switch%20the%20profile%20theme.%20A%20bot%20applies%20it%20and%20closes%20this%20issue%20in%20about%20a%20minute.)
-[![Matrix Green](https://img.shields.io/badge/MATRIX_GREEN-00F5A0?style=for-the-badge&labelColor=05080A&color=00F5A0)](https://github.com/DP1110/DP1110/issues/new?title=theme%3A%20matrix-green&body=Press%20%22Submit%20new%20issue%22%20to%20switch%20the%20profile%20theme.%20A%20bot%20applies%20it%20and%20closes%20this%20issue%20in%20about%20a%20minute.)
-[![Magenta Pulse](https://img.shields.io/badge/MAGENTA_PULSE-FF3CAC?style=for-the-badge&labelColor=05080A&color=FF3CAC)](https://github.com/DP1110/DP1110/issues/new?title=theme%3A%20magenta-pulse&body=Press%20%22Submit%20new%20issue%22%20to%20switch%20the%20profile%20theme.%20A%20bot%20applies%20it%20and%20closes%20this%20issue%20in%20about%20a%20minute.)
-[![Solar Amber](https://img.shields.io/badge/SOLAR_AMBER-FFB020?style=for-the-badge&labelColor=05080A&color=FFB020)](https://github.com/DP1110/DP1110/issues/new?title=theme%3A%20solar-amber&body=Press%20%22Submit%20new%20issue%22%20to%20switch%20the%20profile%20theme.%20A%20bot%20applies%20it%20and%20closes%20this%20issue%20in%20about%20a%20minute.)
-[![Signal Red](https://img.shields.io/badge/SIGNAL_RED-FF4B4B?style=for-the-badge&labelColor=05080A&color=FF4B4B)](https://github.com/DP1110/DP1110/issues/new?title=theme%3A%20signal-red&body=Press%20%22Submit%20new%20issue%22%20to%20switch%20the%20profile%20theme.%20A%20bot%20applies%20it%20and%20closes%20this%20issue%20in%20about%20a%20minute.)
-
-<sub>Click a theme → press <b>Submit new issue</b> → a bot recolours the whole profile in about a minute.</sub>
-
-</div>
-
-<img src="./assets/theme/neon-cyan/divider.svg" width="100%" alt="" />
+<img src="./assets/theme/{{THEME}}/divider.svg" width="100%" alt="" />
 
 ## 🪪 Identity
 
 <table>
   <tr>
     <td width="48%" align="center" valign="top">
-      <img src="./assets/theme/neon-cyan/id-card.svg" width="420" alt="Identity card: Dipak Mane, DP1110, AI agent and automation developer. Open to freelance projects." />
+      <img src="./assets/theme/{{THEME}}/id-card.svg" width="420" alt="Identity card: Dipak Mane, DP1110, AI agent and automation developer. Open to freelance projects." />
     </td>
     <td width="52%" valign="middle">
       <h3>🧠 About</h3>
@@ -55,7 +42,7 @@
   </tr>
 </table>
 
-<img src="./assets/theme/neon-cyan/divider.svg" width="100%" alt="" />
+<img src="./assets/theme/{{THEME}}/divider.svg" width="100%" alt="" />
 
 ## ⚡ Tech Arsenal
 
@@ -98,29 +85,29 @@
 
 </div>
 
-<img src="./assets/theme/neon-cyan/divider.svg" width="100%" alt="" />
+<img src="./assets/theme/{{THEME}}/divider.svg" width="100%" alt="" />
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/DP1110/A.E.T.H.E.R"><img src="./assets/theme/neon-cyan/generated/project-1.svg" width="49%" alt="A.E.T.H.E.R" /></a>
-<a href="https://github.com/DP1110/naive-rag-playground"><img src="./assets/theme/neon-cyan/generated/project-2.svg" width="49%" alt="Naive RAG Playground" /></a>
-<a href="https://github.com/DP1110/Offline-LLM-Bridge"><img src="./assets/theme/neon-cyan/generated/project-3.svg" width="49%" alt="Offline LLM Bridge" /></a>
-<a href="https://github.com/DP1110/api-gateway-portfolio"><img src="./assets/theme/neon-cyan/generated/project-4.svg" width="49%" alt="API Gateway Portfolio" /></a>
+<a href="https://github.com/DP1110/A.E.T.H.E.R"><img src="./assets/theme/{{THEME}}/generated/project-1.svg" width="49%" alt="A.E.T.H.E.R" /></a>
+<a href="https://github.com/DP1110/naive-rag-playground"><img src="./assets/theme/{{THEME}}/generated/project-2.svg" width="49%" alt="Naive RAG Playground" /></a>
+<a href="https://github.com/DP1110/Offline-LLM-Bridge"><img src="./assets/theme/{{THEME}}/generated/project-3.svg" width="49%" alt="Offline LLM Bridge" /></a>
+<a href="https://github.com/DP1110/api-gateway-portfolio"><img src="./assets/theme/{{THEME}}/generated/project-4.svg" width="49%" alt="API Gateway Portfolio" /></a>
 
 </div>
 
-<img src="./assets/theme/neon-cyan/divider.svg" width="100%" alt="" />
+<img src="./assets/theme/{{THEME}}/divider.svg" width="100%" alt="" />
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <!-- built daily by .github/workflows/profile-assets.yml in the cyan palette -->
-<img src="./assets/theme/neon-cyan/generated/activity.svg" width="98%" alt="GitHub activity" />
-<img src="./assets/theme/neon-cyan/generated/stats.svg" width="49%" alt="GitHub stats" />
-<img src="./assets/theme/neon-cyan/generated/languages.svg" width="49%" alt="Top languages" />
+<img src="./assets/theme/{{THEME}}/generated/activity.svg" width="98%" alt="GitHub activity" />
+<img src="./assets/theme/{{THEME}}/generated/stats.svg" width="49%" alt="GitHub stats" />
+<img src="./assets/theme/{{THEME}}/generated/languages.svg" width="49%" alt="Top languages" />
 
 <br/><br/>
 
@@ -133,7 +120,7 @@
 
 </div>
 
-<img src="./assets/theme/neon-cyan/divider.svg" width="100%" alt="" />
+<img src="./assets/theme/{{THEME}}/divider.svg" width="100%" alt="" />
 
 ## 🔥 Trending in My Lane
 
@@ -145,7 +132,7 @@ Fresh repos (last 2 weeks) in AI agents, LLMs, RAG and security. Refreshed daily
 | _first run pending_ | Run the **Update Trending** workflow once to fill this table | — | — |
 <!--TRENDING:END-->
 
-<img src="./assets/theme/neon-cyan/divider.svg" width="100%" alt="" />
+<img src="./assets/theme/{{THEME}}/divider.svg" width="100%" alt="" />
 
 ## 🎯 Current Focus
 
@@ -156,10 +143,10 @@ Fresh repos (last 2 weeks) in AI agents, LLMs, RAG and security. Refreshed daily
 | Network pentesting | Agentic AI | IaC (Terraform / Pulumi) |
 | Zero-trust architecture | Edge deployment | Observability |
 
-<img src="./assets/theme/neon-cyan/divider.svg" width="100%" alt="" />
+<img src="./assets/theme/{{THEME}}/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
-<img src="./assets/theme/neon-cyan/footer.svg" width="100%" alt="Red team mindset. Blue team discipline. Purple team execution." />
+<img src="./assets/theme/{{THEME}}/footer.svg" width="100%" alt="Red team mindset. Blue team discipline. Purple team execution." />
 
 </div>
