@@ -158,14 +158,14 @@ Fresh repos (last 2 weeks) in AI agents, LLMs, RAG and security. Refreshed daily
 <!--TRENDING:START-->
 | Repo | What it does | Lang | Stars |
 |:--|:--|:--:|--:|
-| [**yetone/magpie**](https://github.com/yetone/magpie) | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. | Go | â­ 4.8k |
-| [**Louis-CFM/coucou**](https://github.com/Louis-CFM/coucou) | A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linâ€¦ | Swift | â­ 3.4k |
+| [**yetone/magpie**](https://github.com/yetone/magpie) | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. | Go | â­ 5k |
+| [**Louis-CFM/coucou**](https://github.com/Louis-CFM/coucou) | A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linâ€¦ | Swift | â­ 3.6k |
 | [**feder-cr/dots**](https://github.com/feder-cr/dots) | Open-source dots for the web: an AI agent with its own browser, one that does not get bloâ€¦ | Python | â­ 2.6k |
 | [**edenfunf/reelmimic**](https://github.com/edenfunf/reelmimic) | Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Câ€¦ | JavaScript | â­ 1.3k |
 | [**mikehasa/golive-skill**](https://github.com/mikehasa/golive-skill) | Take your agent-built product live: hosting, database, domain, email, payments — on yourâ€¦ | TypeScript | â­ 1.2k |
-| [**nokia-applied-research/AnyJev**](https://github.com/nokia-applied-research/AnyJev) | Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no traâ€¦ | Python | â­ 1k |
+| [**angel291592/Intent-Router**](https://github.com/angel291592/Intent-Router) | Intent compiler for AI agents — converges vague requests into typed IntentSpec contractsâ€¦ | Python | â­ 830 |
 
-<sub>Auto-updated 2026-10-04 Â· new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
+<sub>Auto-updated 2026-10-05 Â· new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
 <!--TRENDING:END-->
 
 <img src="./assets/divider.svg" width="100%" alt="" />
