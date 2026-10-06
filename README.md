@@ -142,7 +142,14 @@ Fresh repos (last 2 weeks) in AI agents, LLMs, RAG and security. Refreshed daily
 <!--TRENDING:START-->
 | Repo | What it does | Lang | Stars |
 |:--|:--|:--:|--:|
-| _first run pending_ | Run the **Update Trending** workflow once to fill this table | — | — |
+| [**yetone/magpie**](https://github.com/yetone/magpie) | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. | Go | ⭐ 5.3k |
+| [**Louis-CFM/coucou**](https://github.com/Louis-CFM/coucou) | A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding… | Swift | ⭐ 3.7k |
+| [**feder-cr/dots**](https://github.com/feder-cr/dots) | Open-source dots for the web: an AI agent with its own browser, one that does not get blo… | Python | ⭐ 2.6k |
+| [**edenfunf/reelmimic**](https://github.com/edenfunf/reelmimic) | Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or C… | JavaScript | ⭐ 1.4k |
+| [**mikehasa/golive-skill**](https://github.com/mikehasa/golive-skill) | Take your agent-built product live: hosting, database, domain, email, payments — on your… | TypeScript | ⭐ 1.2k |
+| [**amitshekhariitbhu/ai-system-design**](https://github.com/amitshekhariitbhu/ai-system-design) | AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step… | Markdown | ⭐ 636 |
+
+<sub>Auto-updated 2026-10-06 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
 <!--TRENDING:END-->
 
 <img src="./assets/theme/neon-cyan/divider.svg" width="100%" alt="" />
