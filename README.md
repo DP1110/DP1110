@@ -142,14 +142,14 @@ Fresh repos (last 2 weeks) in AI agents, LLMs, RAG and security. Refreshed daily
 <!--TRENDING:START-->
 | Repo | What it does | Lang | Stars |
 |:--|:--|:--:|--:|
-| [**Louis-CFM/coucou**](https://github.com/Louis-CFM/coucou) | A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding… | Swift | ⭐ 4.3k |
-| [**edenfunf/reelmimic**](https://github.com/edenfunf/reelmimic) | Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or C… | JavaScript | ⭐ 1.8k |
-| [**LosaLosSantos/aurelio-finance**](https://github.com/LosaLosSantos/aurelio-finance) | Open-source personal finance app with an AI financial advisor: track your net worth, inve… | Python | ⭐ 701 |
-| [**mdpsec/bug-bounty-hunting-prompts**](https://github.com/mdpsec/bug-bounty-hunting-prompts) | Reusable prompts for a structured, evidence-first bug bounty hunting workflow | — | ⭐ 517 |
-| [**whirlchat/whirl**](https://github.com/whirlchat/whirl) | The AI chat app that sweats the details. Every top model, real memory, living documents,… | TypeScript | ⭐ 504 |
-| [**GTKottman/mortiflix-oss**](https://github.com/GTKottman/mortiflix-oss) | A motion design studio on your own machine: Claude makes the video step by step, you appr… | JavaScript | ⭐ 481 |
+| [**Louis-CFM/coucou**](https://github.com/Louis-CFM/coucou) | A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding… | Swift | ⭐ 4.6k |
+| [**edenfunf/reelmimic**](https://github.com/edenfunf/reelmimic) | Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or C… | JavaScript | ⭐ 1.9k |
+| [**LosaLosSantos/aurelio-finance**](https://github.com/LosaLosSantos/aurelio-finance) | Open-source personal finance app with an AI financial advisor: track your net worth, inve… | Python | ⭐ 1.6k |
+| [**openqodex/openqodex**](https://github.com/openqodex/openqodex) | Open source AI code review for Claude Code and Codex, before you push. Scanners (SAST, se… | TypeScript | ⭐ 527 |
+| [**mdpsec/bug-bounty-hunting-prompts**](https://github.com/mdpsec/bug-bounty-hunting-prompts) | Reusable prompts for a structured, evidence-first bug bounty hunting workflow | — | ⭐ 522 |
+| [**franzenzenhofer/big-arrow-on-the-screen**](https://github.com/franzenzenhofer/big-arrow-on-the-screen) | Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-th… | Swift | ⭐ 519 |
 
-<sub>Auto-updated 2026-10-09 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
+<sub>Auto-updated 2026-10-10 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
 <!--TRENDING:END-->
 
 <img src="./assets/theme/neon-cyan/divider.svg" width="100%" alt="" />
