@@ -142,14 +142,14 @@ Fresh repos (last 2 weeks) in AI agents, LLMs, RAG and security. Refreshed daily
 <!--TRENDING:START-->
 | Repo | What it does | Lang | Stars |
 |:--|:--|:--:|--:|
-| [**LosaLosSantos/aurelio-finance**](https://github.com/LosaLosSantos/aurelio-finance) | Open-source personal finance app with an AI financial advisor: track your net worth, inve… | Python | ⭐ 2.5k |
-| [**franzenzenhofer/big-arrow-on-the-screen**](https://github.com/franzenzenhofer/big-arrow-on-the-screen) | Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-th… | Swift | ⭐ 639 |
-| [**openqodex/openqodex**](https://github.com/openqodex/openqodex) | Open source code review that runs in your coding agent before you push. Scanners plus a s… | TypeScript | ⭐ 616 |
-| [**GTKottman/mortiflix-oss**](https://github.com/GTKottman/mortiflix-oss) | A motion design studio on your own machine: Claude makes the video step by step, you appr… | JavaScript | ⭐ 581 |
-| [**mdpsec/bug-bounty-hunting-prompts**](https://github.com/mdpsec/bug-bounty-hunting-prompts) | Reusable prompts for a structured, evidence-first bug bounty hunting workflow | — | ⭐ 552 |
-| [**whirlchat/whirl**](https://github.com/whirlchat/whirl) | The AI chat app that sweats the details. Every top model, real memory, living documents,… | TypeScript | ⭐ 505 |
+| [**LosaLosSantos/aurelio-finance**](https://github.com/LosaLosSantos/aurelio-finance) | Open-source personal finance app with an AI financial advisor: track your net worth, inve… | Python | ⭐ 3k |
+| [**onehumanbeing/esp32-iphone-agent**](https://github.com/onehumanbeing/esp32-iphone-agent) | Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenA… | Python | ⭐ 1.1k |
+| [**franzenzenhofer/big-arrow-on-the-screen**](https://github.com/franzenzenhofer/big-arrow-on-the-screen) | Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-th… | Swift | ⭐ 680 |
+| [**openqodex/openqodex**](https://github.com/openqodex/openqodex) | Open source code review that runs in your coding agent before you push. Scanners plus a s… | TypeScript | ⭐ 636 |
+| [**GTKottman/mortiflix-oss**](https://github.com/GTKottman/mortiflix-oss) | A motion design studio on your own machine: Claude makes the video step by step, you appr… | JavaScript | ⭐ 600 |
+| [**mdpsec/bug-bounty-hunting-prompts**](https://github.com/mdpsec/bug-bounty-hunting-prompts) | Reusable prompts for a structured, evidence-first bug bounty hunting workflow | — | ⭐ 580 |
 
-<sub>Auto-updated 2026-10-12 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
+<sub>Auto-updated 2026-10-13 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
 <!--TRENDING:END-->
 
 <img src="./assets/theme/neon-cyan/divider.svg" width="100%" alt="" />
