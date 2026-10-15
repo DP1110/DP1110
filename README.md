@@ -143,13 +143,13 @@ Fresh repos (last 2 weeks) in AI agents, LLMs, RAG and security. Refreshed daily
 | Repo | What it does | Lang | Stars |
 |:--|:--|:--:|--:|
 | [**LosaLosSantos/aurelio-finance**](https://github.com/LosaLosSantos/aurelio-finance) | Open-source personal finance app with an AI financial advisor: track your net worth, inve… | Python | ⭐ 3.4k |
-| [**onehumanbeing/esp32-iphone-agent**](https://github.com/onehumanbeing/esp32-iphone-agent) | Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenA… | Python | ⭐ 1.8k |
-| [**mw00/project-maya**](https://github.com/mw00/project-maya) | Project Maya - run GLM-5.3-Flash (321B MoE) privately on your own GPU(s), from one card t… | C++ | ⭐ 773 |
-| [**franzenzenhofer/big-arrow-on-the-screen**](https://github.com/franzenzenhofer/big-arrow-on-the-screen) | Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-th… | Swift | ⭐ 729 |
-| [**openqodex/openqodex**](https://github.com/openqodex/openqodex) | Open source code review that runs in your coding agent before you push. Scanners plus a s… | TypeScript | ⭐ 667 |
-| [**GTKottman/mortiflix-oss**](https://github.com/GTKottman/mortiflix-oss) | A motion design studio on your own machine: Claude makes the video step by step, you appr… | JavaScript | ⭐ 614 |
+| [**onehumanbeing/esp32-iphone-agent**](https://github.com/onehumanbeing/esp32-iphone-agent) | Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenA… | C | ⭐ 2.2k |
+| [**marclou/mailcheap**](https://github.com/marclou/mailcheap) | The affordable newsletter for the agentic era. Open source: self-host it, or use mailchea… | JavaScript | ⭐ 934 |
+| [**mw00/project-maya**](https://github.com/mw00/project-maya) | Project Maya - run GLM-5.3-Flash (321B MoE) privately on your own GPU(s), from one card t… | C++ | ⭐ 865 |
+| [**deeplethe/solid-glass**](https://github.com/deeplethe/solid-glass) | A design system for AI applications. Material, physical, tactile, technical. | TypeScript | ⭐ 818 |
+| [**franzenzenhofer/big-arrow-on-the-screen**](https://github.com/franzenzenhofer/big-arrow-on-the-screen) | Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-th… | Swift | ⭐ 746 |
 
-<sub>Auto-updated 2026-10-14 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
+<sub>Auto-updated 2026-10-15 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
 <!--TRENDING:END-->
 
 <img src="./assets/theme/neon-cyan/divider.svg" width="100%" alt="" />
