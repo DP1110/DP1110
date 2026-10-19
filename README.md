@@ -105,9 +105,9 @@
 <div align="center">
 
 <a href="https://github.com/DP1110/A.E.T.H.E.R"><img src="./assets/theme/neon-cyan/generated/project-1.svg" width="49%" alt="A.E.T.H.E.R" /></a>
-<a href="https://github.com/DP1110/codemesh-v2"><img src="./assets/theme/neon-cyan/generated/project-2.svg" width="49%" alt="Codemesh v2" /></a>
+<a href="https://github.com/DP1110/naive-rag-playground"><img src="./assets/theme/neon-cyan/generated/project-2.svg" width="49%" alt="Naive RAG Playground" /></a>
 <a href="https://github.com/DP1110/Offline-LLM-Bridge"><img src="./assets/theme/neon-cyan/generated/project-3.svg" width="49%" alt="Offline LLM Bridge" /></a>
-<a href="https://github.com/DP1110/LlmHub"><img src="./assets/theme/neon-cyan/generated/project-4.svg" width="49%" alt="LlmHub" /></a>
+<a href="https://github.com/DP1110/api-gateway-portfolio"><img src="./assets/theme/neon-cyan/generated/project-4.svg" width="49%" alt="API Gateway Portfolio" /></a>
 
 </div>
 
@@ -145,7 +145,7 @@ Fresh repos (last 2 weeks) in AI agents, LLMs, RAG and security. Refreshed daily
 | [**LosaLosSantos/aurelio-finance**](https://github.com/LosaLosSantos/aurelio-finance) | Open-source personal finance app with an AI financial advisor: track your net worth, inve… | Python | �[...]
 | [**onehumanbeing/esp32-iphone-agent**](https://github.com/onehumanbeing/esp32-iphone-agent) | Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenA… | C | [...]
 | [**feder-cr/git-ai**](https://github.com/feder-cr/git-ai) | Git designed for AI agents. | Go | ⭐ 2.3k |
-| [**deeplethe/solid-glass**](https://github.com/deeplethe/solid-glass) | A design system for AI applications. Material, physical, tactile, technical. | TypeScript | ⭐ 2.2k |
+| [**deeplethe/solid-glass**](https://github.com/deeplethe/solid-glass**](https://github.com/deeplethe/solid-glass) | A design system for AI applications. Material, physical, tactile, technical. | TypeScript | ⭐ 2.2k |
 | [**marclou/mailcheap**](https://github.com/marclou/mailcheap) | Newsletters where you pay for the emails you send, not for dormant subscribers, at a frac… | JavaScript | ⭐ 1.2k |
 | [**jwuthri-cloud/Tracely-ai**](https://github.com/jwuthri-cloud/Tracely-ai) | Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them… | Python | ⭐ 1.1k |
 
