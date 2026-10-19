@@ -15,12 +15,12 @@ const OUT = new URL('../assets/src/generated/', import.meta.url);
 const PROJECTS = [
   { repo: 'A.E.T.H.E.R',          accent: '#00D9FF', tags: ['C++', 'Embedded', 'Protocol Routing'],
     blurb: 'Autonomous Embedded Translation & Host Environment Router.', lang: 'C++' },
-  { repo: 'naive-rag-playground', accent: '#0099FF', tags: ['FastAPI', 'FAISS', 'BGE Embeddings'],
-    blurb: 'Interactive RAG sandbox with FastAPI, FAISS and a glassmorphic UI.', lang: 'JavaScript' },
+  { repo: 'codemesh-v2',          accent: '#0099FF', tags: ['ESP8266', 'FastAPI', 'Token Scheduling'],
+    blurb: 'Round Robin & priority queue multi-user LLM token scheduling over WiFi mesh.', lang: 'C++' },
   { repo: 'Offline-LLM-Bridge',   accent: '#7C5CFF', tags: ['ESP8266', 'Ollama', 'Edge AI'],
     blurb: 'Private AI chat over an ESP8266 WiFi bridge to a local Ollama LLM.', lang: 'C++' },
-  { repo: 'api-gateway-portfolio', accent: '#00F5A0', tags: ['Python', 'Microservices', 'Cloud Native'],
-    blurb: 'Scalable API gateway architecture across microservices.', lang: 'Python' },
+  { repo: 'LlmHub',               accent: '#00F5A0', tags: ['Python', 'GGUF Runtime', 'Distributed LLM'],
+    blurb: 'Offline-first, memory-bandwidth bounded concurrent GGUF runtime on CPU & edge ARM64.', lang: 'Python' },
 ];
 
 // ---- palette (your colour system) -------------------------------------------
