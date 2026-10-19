@@ -105,9 +105,9 @@
 <div align="center">
 
 <a href="https://github.com/DP1110/A.E.T.H.E.R"><img src="./assets/theme/neon-cyan/generated/project-1.svg" width="49%" alt="A.E.T.H.E.R" /></a>
-<a href="https://github.com/DP1110/naive-rag-playground"><img src="./assets/theme/neon-cyan/generated/project-2.svg" width="49%" alt="Naive RAG Playground" /></a>
+<a href="https://github.com/DP1110/codemesh-v2"><img src="./assets/theme/neon-cyan/generated/project-2.svg" width="49%" alt="CodeMesh v2.0" /></a>
 <a href="https://github.com/DP1110/Offline-LLM-Bridge"><img src="./assets/theme/neon-cyan/generated/project-3.svg" width="49%" alt="Offline LLM Bridge" /></a>
-<a href="https://github.com/DP1110/api-gateway-portfolio"><img src="./assets/theme/neon-cyan/generated/project-4.svg" width="49%" alt="API Gateway Portfolio" /></a>
+<a href="https://github.com/DP1110/LlmHub"><img src="./assets/theme/neon-cyan/generated/project-4.svg" width="49%" alt="LLMHub" /></a>
 
 </div>
 
