@@ -8,21 +8,21 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=DP1110&label=PROFILE+VIEWS&style=for-the-badge&color=00D9FF&labelColor=05080A)](https://github.com/DP1110)
 [![Followers](https://img.shields.io/github/followers/DP1110?style=for-the-badge&logo=github&color=0099FF&labelColor=05080A)](https://github.com/DP1110?tab=followers)
-[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDP1110&query=%24.public_repos&label=REPOS&style=for-the-badge&logo=github&color=00D9FF&labelCo[...]
+[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDP1110&query=%24.public_repos&label=REPOS&style=for-the-badge&logo=github&color=00D9FF&labelColor=05080A)](https://github.com/DP1110?tab=repositories)
 [![Open to Work](https://img.shields.io/badge/FREELANCE-OPEN-00F5A0?style=for-the-badge&labelColor=05080A)](mailto:manedipak1110@gmail.com)
 
 </div>
 
 <div align="center">
 
-<a href="https://github.com/DP1110/DP1110/issues/new?title=theme%3A%20next&body=Press%20%22Submit%20new%20issue%22%20to%20switch%20the%20profile%20theme.%20A%20bot%20applies%20it%20and%20closes%20[...]
+<a href="https://github.com/DP1110/DP1110/issues/new?title=theme%3A%20next&body=Press%20%22Submit%20new%20issue%22%20to%20switch%20the%20profile%20theme.%20A%20bot%20applies%20it%20and%20closes%20this%20issue%20in%20about%20a%20minute."><img src="https://img.shields.io/badge/%F0%9F%8E%A8_NEXT_THEME_%E2%96%B6-ULTRAVIOLET-00D9FF?style=for-the-badge&labelColor=05080A&color=00D9FF" alt="Switch to the next theme" /></a>
 
-[![Neon Cyan](https://img.shields.io/badge/%E2%96%B6_NEON_CYAN-00D9FF?style=for-the-badge&labelColor=05080A&color=00D9FF)](https://github.com/DP1110/DP1110/issues/new?title=theme%3A%20neon-cyan&bo[...]
-[![Ultraviolet](https://img.shields.io/badge/ULTRAVIOLET-A855F7?style=for-the-badge&labelColor=05080A&color=A855F7)](https://github.com/DP1110/DP1110/issues/new?title=theme%3A%20ultraviolet&body=P[...]
-[![Matrix Green](https://img.shields.io/badge/MATRIX_GREEN-00F5A0?style=for-the-badge&labelColor=05080A&color=00F5A0)](https://github.com/DP1110/DP1110/issues/new?title=theme%3A%20matrix-green&bod[...]
-[![Magenta Pulse](https://img.shields.io/badge/MAGENTA_PULSE-FF3CAC?style=for-the-badge&labelColor=05080A&color=FF3CAC)](https://github.com/DP1110/DP1110/issues/new?title=theme%3A%20magenta-pulse&[...]
-[![Solar Amber](https://img.shields.io/badge/SOLAR_AMBER-FFB020?style=for-the-badge&labelColor=05080A&color=FFB020)](https://github.com/DP1110/DP1110/issues/new?title=theme%3A%20solar-amber&body=P[...]
-[![Signal Red](https://img.shields.io/badge/SIGNAL_RED-FF4B4B?style=for-the-badge&labelColor=05080A&color=FF4B4B)](https://github.com/DP1110/DP1110/issues/new?title=theme%3A%20signal-red&body=Pres[...]
+[![Neon Cyan](https://img.shields.io/badge/%E2%96%B6_NEON_CYAN-00D9FF?style=for-the-badge&labelColor=05080A&color=00D9FF)](https://github.com/DP1110/DP1110/issues/new?title=theme%3A%20neon-cyan&body=Press%20%22Submit%20new%20issue%22%20to%20switch%20the%20profile%20theme.%20A%20bot%20applies%20it%20and%20closes%20this%20issue%20in%20about%20a%20minute.)
+[![Ultraviolet](https://img.shields.io/badge/ULTRAVIOLET-A855F7?style=for-the-badge&labelColor=05080A&color=A855F7)](https://github.com/DP1110/DP1110/issues/new?title=theme%3A%20ultraviolet&body=Press%20%22Submit%20new%20issue%22%20to%20switch%20the%20profile%20theme.%20A%20bot%20applies%20it%20and%20closes%20this%20issue%20in%20about%20a%20minute.)
+[![Matrix Green](https://img.shields.io/badge/MATRIX_GREEN-00F5A0?style=for-the-badge&labelColor=05080A&color=00F5A0)](https://github.com/DP1110/DP1110/issues/new?title=theme%3A%20matrix-green&body=Press%20%22Submit%20new%20issue%22%20to%20switch%20the%20profile%20theme.%20A%20bot%20applies%20it%20and%20closes%20this%20issue%20in%20about%20a%20minute.)
+[![Magenta Pulse](https://img.shields.io/badge/MAGENTA_PULSE-FF3CAC?style=for-the-badge&labelColor=05080A&color=FF3CAC)](https://github.com/DP1110/DP1110/issues/new?title=theme%3A%20magenta-pulse&body=Press%20%22Submit%20new%20issue%22%20to%20switch%20the%20profile%20theme.%20A%20bot%20applies%20it%20and%20closes%20this%20issue%20in%20about%20a%20minute.)
+[![Solar Amber](https://img.shields.io/badge/SOLAR_AMBER-FFB020?style=for-the-badge&labelColor=05080A&color=FFB020)](https://github.com/DP1110/DP1110/issues/new?title=theme%3A%20solar-amber&body=Press%20%22Submit%20new%20issue%22%20to%20switch%20the%20profile%20theme.%20A%20bot%20applies%20it%20and%20closes%20this%20issue%20in%20about%20a%20minute.)
+[![Signal Red](https://img.shields.io/badge/SIGNAL_RED-FF4B4B?style=for-the-badge&labelColor=05080A&color=FF4B4B)](https://github.com/DP1110/DP1110/issues/new?title=theme%3A%20signal-red&body=Press%20%22Submit%20new%20issue%22%20to%20switch%20the%20profile%20theme.%20A%20bot%20applies%20it%20and%20closes%20this%20issue%20in%20about%20a%20minute.)
 
 <sub>Click a theme → press <b>Submit new issue</b> → a bot recolours the whole profile in about a minute.</sub>
 
@@ -76,7 +76,7 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&labelColor=05080A&logo=terraform&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -142,14 +142,14 @@ Fresh repos (last 2 weeks) in AI agents, LLMs, RAG and security. Refreshed daily
 <!--TRENDING:START-->
 | Repo | What it does | Lang | Stars |
 |:--|:--|:--:|--:|
-| [**LosaLosSantos/aurelio-finance**](https://github.com/LosaLosSantos/aurelio-finance) | Open-source personal finance app with an AI financial advisor: track your net worth, inve… | Python | �[...]
-| [**onehumanbeing/esp32-iphone-agent**](https://github.com/onehumanbeing/esp32-iphone-agent) | Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenA… | C | [...]
+| [**LosaLosSantos/aurelio-finance**](https://github.com/LosaLosSantos/aurelio-finance) | Open-source personal finance app with an AI financial advisor: track your net worth, inve… | Python | ⭐ 4k |
+| [**onehumanbeing/esp32-iphone-agent**](https://github.com/onehumanbeing/esp32-iphone-agent) | Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenA… | C | ⭐ 3.2k |
 | [**feder-cr/git-ai**](https://github.com/feder-cr/git-ai) | Git designed for AI agents. | Go | ⭐ 2.3k |
-| [**deeplethe/solid-glass**](https://github.com/deeplethe/solid-glass**](https://github.com/deeplethe/solid-glass) | A design system for AI applications. Material, physical, tactile, technical. | TypeScript | ⭐ 2.2k |
+| [**deeplethe/solid-glass**](https://github.com/deeplethe/solid-glass) | A design system for AI applications. Material, physical, tactile, technical. | TypeScript | ⭐ 2.2k |
 | [**marclou/mailcheap**](https://github.com/marclou/mailcheap) | Newsletters where you pay for the emails you send, not for dormant subscribers, at a frac… | JavaScript | ⭐ 1.2k |
 | [**jwuthri-cloud/Tracely-ai**](https://github.com/jwuthri-cloud/Tracely-ai) | Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them… | Python | ⭐ 1.1k |
 
-<sub>Auto-updated 2026-10-19 · new repos from the last 14 days in the `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
+<sub>Auto-updated 2026-10-19 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
 <!--TRENDING:END-->
 
 <img src="./assets/theme/neon-cyan/divider.svg" width="100%" alt="" />
