@@ -142,14 +142,14 @@ Fresh repos (last 2 weeks) in AI agents, LLMs, RAG and security. Refreshed daily
 <!--TRENDING:START-->
 | Repo | What it does | Lang | Stars |
 |:--|:--|:--:|--:|
-| [**LosaLosSantos/aurelio-finance**](https://github.com/LosaLosSantos/aurelio-finance) | Open-source personal finance app with an AI financial advisor: track your net worth, inve… | Python | ⭐ 4k |
-| [**onehumanbeing/esp32-iphone-agent**](https://github.com/onehumanbeing/esp32-iphone-agent) | Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenA… | C | ⭐ 3.2k |
-| [**feder-cr/git-ai**](https://github.com/feder-cr/git-ai) | Git designed for AI agents. | Go | ⭐ 2.3k |
-| [**deeplethe/solid-glass**](https://github.com/deeplethe/solid-glass) | A design system for AI applications. Material, physical, tactile, technical. | TypeScript | ⭐ 2.2k |
-| [**marclou/mailcheap**](https://github.com/marclou/mailcheap) | Newsletters where you pay for the emails you send, not for dormant subscribers, at a frac… | JavaScript | ⭐ 1.2k |
+| [**onehumanbeing/esp32-iphone-agent**](https://github.com/onehumanbeing/esp32-iphone-agent) | Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenA… | C | ⭐ 3.3k |
+| [**feder-cr/git-ai**](https://github.com/feder-cr/git-ai) | Git designed for AI agents. | Go | ⭐ 2.5k |
+| [**deeplethe/solid-glass**](https://github.com/deeplethe/solid-glass) | A design system for AI applications. Material, physical, tactile, technical. | TypeScript | ⭐ 2.4k |
+| [**Leonxlnx/earshot**](https://github.com/Leonxlnx/earshot) | Ears for coding agents: let AI hear, review and make sound. CPU-only, open source. | Python | ⭐ 1.7k |
+| [**marclou/mailcheap**](https://github.com/marclou/mailcheap) | Newsletters where you pay for the emails you send, not for dormant subscribers, at a frac… | JavaScript | ⭐ 1.3k |
 | [**jwuthri-cloud/Tracely-ai**](https://github.com/jwuthri-cloud/Tracely-ai) | Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them… | Python | ⭐ 1.1k |
 
-<sub>Auto-updated 2026-10-19 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
+<sub>Auto-updated 2026-10-20 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
 <!--TRENDING:END-->
 
 <img src="./assets/theme/neon-cyan/divider.svg" width="100%" alt="" />
