@@ -142,14 +142,14 @@ Fresh repos (last 2 weeks) in AI agents, LLMs, RAG and security. Refreshed daily
 <!--TRENDING:START-->
 | Repo | What it does | Lang | Stars |
 |:--|:--|:--:|--:|
-| [**onehumanbeing/esp32-iphone-agent**](https://github.com/onehumanbeing/esp32-iphone-agent) | Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenA… | C | ⭐ 3.7k |
-| [**Leonxlnx/earshot**](https://github.com/Leonxlnx/earshot) | Ears for coding agents: let AI hear, review and make sound. CPU-only, open source. | Python | ⭐ 2.5k |
+| [**Leonxlnx/earshot**](https://github.com/Leonxlnx/earshot) | Ears for coding agents: let AI hear, review and make sound. CPU-only, open source. | Python | ⭐ 2.7k |
 | [**deeplethe/solid-glass**](https://github.com/deeplethe/solid-glass) | A design system for AI applications. Material, physical, tactile, technical. | TypeScript | ⭐ 2.2k |
-| [**jwuthri-cloud/Tracely-ai**](https://github.com/jwuthri-cloud/Tracely-ai) | Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them… | Python | ⭐ 1.2k |
-| [**feder-cr/git-ai**](https://github.com/feder-cr/git-ai) | Git designed for AI agents. | Go | ⭐ 980 |
-| [**outcrawlai/scout**](https://github.com/outcrawlai/scout) | Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's… | TypeScript | ⭐ 943 |
+| [**feder-cr/git-ai**](https://github.com/feder-cr/git-ai) | Git designed for AI agents. | Go | ⭐ 991 |
+| [**outcrawlai/scout**](https://github.com/outcrawlai/scout) | Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's… | TypeScript | ⭐ 938 |
+| [**Zfinix/eleven**](https://github.com/Zfinix/eleven) | Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, rename… | TypeScript | ⭐ 868 |
+| [**kitlangton/scrawl**](https://github.com/kitlangton/scrawl) | Show an agent a problem: mark up, record, send | Rust | ⭐ 730 |
 
-<sub>Auto-updated 2026-10-24 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
+<sub>Auto-updated 2026-10-25 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
 <!--TRENDING:END-->
 
 <img src="./assets/theme/neon-cyan/divider.svg" width="100%" alt="" />
