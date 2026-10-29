@@ -142,14 +142,14 @@ Fresh repos (last 2 weeks) in AI agents, LLMs, RAG and security. Refreshed daily
 <!--TRENDING:START-->
 | Repo | What it does | Lang | Stars |
 |:--|:--|:--:|--:|
-| [**Leonxlnx/earshot**](https://github.com/Leonxlnx/earshot) | Ears for coding agents: let AI hear, review and make sound. CPU-only, open source. | Python | ⭐ 3.1k |
-| [**feder-cr/git-ai**](https://github.com/feder-cr/git-ai) | Git designed for AI agents. | Go | ⭐ 1k |
-| [**reacher-z/Awesome-REA**](https://github.com/reacher-z/Awesome-REA) | Awesome Reverse Engineering Anything: tools, projects, case studies and research papers f… | Python | ⭐ 518 |
-| [**MemTensor/MemT-1.0**](https://github.com/MemTensor/MemT-1.0) | Official repository for MemT-1.0 | Python | ⭐ 437 |
-| [**hevnsnt/CVEngine**](https://github.com/hevnsnt/CVEngine) | AI-first external attack surface assessment with continuous discovery, evidence-based vul… | Python | ⭐ 427 |
-| [**daveebbelaar/bama**](https://github.com/daveebbelaar/bama) | BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and te… | Swift | ⭐ 412 |
+| [**daveebbelaar/bama**](https://github.com/daveebbelaar/bama) | BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and te… | Swift | ⭐ 664 |
+| [**reacher-z/Awesome-REA**](https://github.com/reacher-z/Awesome-REA) | Awesome Reverse Engineering Anything: tools, projects, case studies and research papers f… | Python | ⭐ 576 |
+| [**C4rohan/Lampline**](https://github.com/C4rohan/Lampline) | Build AI phone agents on your own computer and test every change with an AI caller. Open… | Python | ⭐ 547 |
+| [**MemTensor/MemT-1.0**](https://github.com/MemTensor/MemT-1.0) | Official repository for MemT-1.0 | Python | ⭐ 466 |
+| [**hevnsnt/CVEngine**](https://github.com/hevnsnt/CVEngine) | AI-first external attack surface assessment with continuous discovery, evidence-based vul… | Python | ⭐ 450 |
+| [**eliasbiondo/antirion**](https://github.com/eliasbiondo/antirion) | ⚡ The fastest open-source AI Gateway and LLM Gateway — one binary with built-in console t… | Rust | ⭐ 429 |
 
-<sub>Auto-updated 2026-10-28 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
+<sub>Auto-updated 2026-10-29 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
 <!--TRENDING:END-->
 
 <img src="./assets/theme/neon-cyan/divider.svg" width="100%" alt="" />
