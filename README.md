@@ -142,14 +142,14 @@ Fresh repos (last 2 weeks) in AI agents, LLMs, RAG and security. Refreshed daily
 <!--TRENDING:START-->
 | Repo | What it does | Lang | Stars |
 |:--|:--|:--:|--:|
-| [**daveebbelaar/bama**](https://github.com/daveebbelaar/bama) | BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and te… | Swift | ⭐ 839 |
-| [**C4rohan/Lampline**](https://github.com/C4rohan/Lampline) | Build AI phone agents on your own computer and test every change with an AI caller. Open… | Python | ⭐ 546 |
-| [**hevnsnt/CVEngine**](https://github.com/hevnsnt/CVEngine) | AI-first external attack surface assessment with continuous discovery, evidence-based vul… | Python | ⭐ 510 |
+| [**daveebbelaar/bama**](https://github.com/daveebbelaar/bama) | BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and te… | Swift | ⭐ 984 |
+| [**C4rohan/Lampline**](https://github.com/C4rohan/Lampline) | Build AI phone agents on your own computer and test every change with an AI caller. Open… | Python | ⭐ 548 |
+| [**hevnsnt/CVEngine**](https://github.com/hevnsnt/CVEngine) | AI-first external attack surface assessment with continuous discovery, evidence-based vul… | Python | ⭐ 542 |
 | [**MemTensor/MemT-1.0**](https://github.com/MemTensor/MemT-1.0) | Official repository for MemT-1.0 | Python | ⭐ 480 |
-| [**eliasbiondo/antirion**](https://github.com/eliasbiondo/antirion) | 🕷️ The fastest open-source AI Gateway and LLM Gateway — one binary with built-in console… | Rust | ⭐ 478 |
-| [**0xS4N4TG/kinetograph**](https://github.com/0xS4N4TG/kinetograph) | A blazingly fast programmatic video engine, made for agents. | TypeScript | ⭐ 343 |
+| [**0xS4N4TG/kinetograph**](https://github.com/0xS4N4TG/kinetograph) | A blazingly fast programmatic video engine, made for agents. | TypeScript | ⭐ 377 |
+| [**Charonyuu/whatsmyagentdoing**](https://github.com/Charonyuu/whatsmyagentdoing) | See what every Claude Code and Codex agent on your machine is doing — live, in a little o… | JavaScript | ⭐ 354 |
 
-<sub>Auto-updated 2026-10-30 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
+<sub>Auto-updated 2026-10-31 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
 <!--TRENDING:END-->
 
 <img src="./assets/theme/neon-cyan/divider.svg" width="100%" alt="" />
