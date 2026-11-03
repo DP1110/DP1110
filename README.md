@@ -142,14 +142,14 @@ Fresh repos (last 2 weeks) in AI agents, LLMs, RAG and security. Refreshed daily
 <!--TRENDING:START-->
 | Repo | What it does | Lang | Stars |
 |:--|:--|:--:|--:|
-| [**wangzan101/Mika**](https://github.com/wangzan101/Mika) | An on-device AI agent for Android that operates apps and the web to get things done for y… | Kotlin | ⭐ 4.7k |
-| [**daveebbelaar/bama**](https://github.com/daveebbelaar/bama) | BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and te… | Swift | ⭐ 1.4k |
-| [**modelflare-ai/AnyModelBot**](https://github.com/modelflare-ai/AnyModelBot) | 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your ow… | TypeScript | ⭐ 994 |
-| [**emanuele-em/kanzo**](https://github.com/emanuele-em/kanzo) | Self-hosted, sharable kanban for humans and agents. One 4.5 MB binary, 4.5 MB of RAM, 10… | Rust | ⭐ 712 |
-| [**hevnsnt/CVEngine**](https://github.com/hevnsnt/CVEngine) | AI-first external attack surface assessment with continuous discovery, evidence-based vul… | Python | ⭐ 564 |
-| [**yjid/kensaku**](https://github.com/yjid/kensaku) | Search inside documents, code, and even screenshots - instantly and locally. A free, open… | Rust | ⭐ 505 |
+| [**wangzan101/Mika**](https://github.com/wangzan101/Mika) | An on-device AI agent for Android that operates apps and the web to get things done for y… | Kotlin | ⭐ 5.8k |
+| [**modelflare-ai/AnyModelBot**](https://github.com/modelflare-ai/AnyModelBot) | 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your ow… | TypeScript | ⭐ 2k |
+| [**daveebbelaar/bama**](https://github.com/daveebbelaar/bama) | BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and te… | Swift | ⭐ 1.5k |
+| [**emanuele-em/kanzo**](https://github.com/emanuele-em/kanzo) | Self-hosted, sharable kanban for humans and agents. One 4.5 MB binary, 4.5 MB of RAM, 10… | Rust | ⭐ 929 |
+| [**yjid/kensaku**](https://github.com/yjid/kensaku) | Search inside documents, code, and even screenshots - instantly and locally. A free, open… | Rust | ⭐ 635 |
+| [**Balanov/uncut**](https://github.com/Balanov/uncut) | The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain st… | Go | ⭐ 578 |
 
-<sub>Auto-updated 2026-11-02 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
+<sub>Auto-updated 2026-11-03 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
 <!--TRENDING:END-->
 
 <img src="./assets/theme/neon-cyan/divider.svg" width="100%" alt="" />
