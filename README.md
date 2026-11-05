@@ -142,14 +142,14 @@ Fresh repos (last 2 weeks) in AI agents, LLMs, RAG and security. Refreshed daily
 <!--TRENDING:START-->
 | Repo | What it does | Lang | Stars |
 |:--|:--|:--:|--:|
-| [**wangzan101/Mika**](https://github.com/wangzan101/Mika) | An on-device AI agent for Android that operates apps and the web to get things done for y… | Kotlin | ⭐ 6.3k |
-| [**modelflare-ai/AnyModelBot**](https://github.com/modelflare-ai/AnyModelBot) | 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your ow… | Python | ⭐ 2.4k |
-| [**daveebbelaar/bama**](https://github.com/daveebbelaar/bama) | BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and te… | Swift | ⭐ 1.5k |
-| [**emanuele-em/kanzo**](https://github.com/emanuele-em/kanzo) | Self-hosted, sharable kanban for humans and agents. One 4.5 MB binary, 4.5 MB of RAM, 10… | Rust | ⭐ 994 |
-| [**yjid/kensaku**](https://github.com/yjid/kensaku) | Search inside documents, code, and even screenshots - instantly and locally. A free, open… | Rust | ⭐ 756 |
-| [**Balanov/uncut**](https://github.com/Balanov/uncut) | The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain st… | Go | ⭐ 599 |
+| [**wangzan101/Mika**](https://github.com/wangzan101/Mika) | An on-device AI agent for Android that operates apps and the web to get things done for y… | Kotlin | ⭐ 6.9k |
+| [**modelflare-ai/AnyModelBot**](https://github.com/modelflare-ai/AnyModelBot) | 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your ow… | Python | ⭐ 2.7k |
+| [**daveebbelaar/bama**](https://github.com/daveebbelaar/bama) | BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and te… | Swift | ⭐ 1.6k |
+| [**emanuele-em/kanzo**](https://github.com/emanuele-em/kanzo) | Self-hosted, sharable kanban for humans and agents. One 4.5 MB binary, 4.5 MB of RAM, 10… | Rust | ⭐ 1k |
+| [**yjid/kensaku**](https://github.com/yjid/kensaku) | Search inside documents, code, and even screenshots - instantly and locally. A free, open… | Rust | ⭐ 808 |
+| [**phone-harness/mcp**](https://github.com/phone-harness/mcp) | Connect AI agents to real iPhones and Androids | Python | ⭐ 679 |
 
-<sub>Auto-updated 2026-11-04 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
+<sub>Auto-updated 2026-11-05 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
 <!--TRENDING:END-->
 
 <img src="./assets/theme/neon-cyan/divider.svg" width="100%" alt="" />
