@@ -142,14 +142,14 @@ Fresh repos (last 2 weeks) in AI agents, LLMs, RAG and security. Refreshed daily
 <!--TRENDING:START-->
 | Repo | What it does | Lang | Stars |
 |:--|:--|:--:|--:|
-| [**wangzan101/Mika**](https://github.com/wangzan101/Mika) | An on-device AI agent for Android that operates apps and the web to get things done for y… | Kotlin | ⭐ 7.3k |
+| [**wangzan101/Mika**](https://github.com/wangzan101/Mika) | An on-device AI agent for Android that operates apps and the web to get things done for y… | Kotlin | ⭐ 7.5k |
 | [**modelflare-ai/AnyModelBot**](https://github.com/modelflare-ai/AnyModelBot) | 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your ow… | Python | ⭐ 2.7k |
-| [**daveebbelaar/bama**](https://github.com/daveebbelaar/bama) | BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and te… | Swift | ⭐ 1.6k |
-| [**emanuele-em/kanzo**](https://github.com/emanuele-em/kanzo) | Self-hosted, sharable kanban for humans and agents. One 4.5 MB binary, 4.5 MB of RAM, 10… | Rust | ⭐ 1k |
-| [**yjid/kensaku**](https://github.com/yjid/kensaku) | Search inside documents, code, and even screenshots - instantly and locally. A free, open… | Rust | ⭐ 910 |
-| [**Balanov/uncut**](https://github.com/Balanov/uncut) | The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain st… | Go | ⭐ 610 |
+| [**emanuele-em/kanzo**](https://github.com/emanuele-em/kanzo) | Self-hosted, sharable kanban for humans and agents. One 4.7 MB binary, 5 MB of RAM, 10 to… | Rust | ⭐ 1.1k |
+| [**Sandflow-ai/sand3d**](https://github.com/Sandflow-ai/sand3d) | 3D modeling in Python, built for LLMs. | HTML | ⭐ 890 |
+| [**voyager-so/vork**](https://github.com/voyager-so/vork) | Headless 3D and VFX engine for agents. Research preview. | Rust | ⭐ 542 |
+| [**JosssphZhou/poki**](https://github.com/JosssphZhou/poki) | Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra h… | JavaScript | ⭐ 448 |
 
-<sub>Auto-updated 2026-11-06 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
+<sub>Auto-updated 2026-11-07 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
 <!--TRENDING:END-->
 
 <img src="./assets/theme/neon-cyan/divider.svg" width="100%" alt="" />
