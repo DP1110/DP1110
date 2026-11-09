@@ -142,14 +142,14 @@ Fresh repos (last 2 weeks) in AI agents, LLMs, RAG and security. Refreshed daily
 <!--TRENDING:START-->
 | Repo | What it does | Lang | Stars |
 |:--|:--|:--:|--:|
-| [**wangzan101/Mika**](https://github.com/wangzan101/Mika) | An on-device AI agent for Android that operates apps and the web to get things done for y… | Kotlin | ⭐ 7.7k |
+| [**wangzan101/Mika**](https://github.com/wangzan101/Mika) | An on-device AI agent for Android that operates apps and the web to get things done for y… | Kotlin | ⭐ 7.8k |
 | [**modelflare-ai/AnyModelBot**](https://github.com/modelflare-ai/AnyModelBot) | 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your ow… | Python | ⭐ 2.7k |
-| [**Sandflow-ai/sand3d**](https://github.com/Sandflow-ai/sand3d) | 3D modeling in Python, built for LLMs. | HTML | ⭐ 1.2k |
-| [**voyager-so/vork**](https://github.com/voyager-so/vork) | Headless 3D and VFX engine for agents. Research preview. | Rust | ⭐ 985 |
-| [**JosssphZhou/poki**](https://github.com/JosssphZhou/poki) | Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra h… | JavaScript | ⭐ 545 |
-| [**jmanico/grim-prompter**](https://github.com/jmanico/grim-prompter) | Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo… | — | ⭐ 391 |
+| [**Sandflow-ai/sand3d**](https://github.com/Sandflow-ai/sand3d) | 3D modeling in Python, built for LLMs. | HTML | ⭐ 1.5k |
+| [**voyager-so/vork**](https://github.com/voyager-so/vork) | Headless 3D and VFX engine for agents. Research preview. | Rust | ⭐ 1.2k |
+| [**JosssphZhou/poki**](https://github.com/JosssphZhou/poki) | Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra h… | Swift | ⭐ 639 |
+| [**synchopate/llama-modchip**](https://github.com/synchopate/llama-modchip) | 🐋 Run 284B DeepSeek-V4-Flash (<59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B MoEs (25-… | Python | ⭐ 620 |
 
-<sub>Auto-updated 2026-11-08 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
+<sub>Auto-updated 2026-11-09 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
 <!--TRENDING:END-->
 
 <img src="./assets/theme/neon-cyan/divider.svg" width="100%" alt="" />
