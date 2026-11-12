@@ -142,14 +142,14 @@ Fresh repos (last 2 weeks) in AI agents, LLMs, RAG and security. Refreshed daily
 <!--TRENDING:START-->
 | Repo | What it does | Lang | Stars |
 |:--|:--|:--:|--:|
-| [**wangzan101/Mika**](https://github.com/wangzan101/Mika) | An on-device AI agent for Android that operates apps and the web to get things done for y… | Kotlin | ⭐ 8.2k |
-| [**expo/exact**](https://github.com/expo/exact) | Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent ca… | Rust | ⭐ 2.5k |
-| [**Sandflow-ai/sand3d**](https://github.com/Sandflow-ai/sand3d) | 3D modeling in Python, built for LLMs. | HTML | ⭐ 1.8k |
-| [**voyager-so/vork**](https://github.com/voyager-so/vork) | Headless 3D and VFX engine for agents. Research preview. | Rust | ⭐ 1.4k |
-| [**RunanywhereAI/trnrt**](https://github.com/RunanywhereAI/trnrt) | The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI… | Python | ⭐ 1.1k |
-| [**JosssphZhou/poki**](https://github.com/JosssphZhou/poki) | Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra h… | Swift | ⭐ 950 |
+| [**expo/exact**](https://github.com/expo/exact) | Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent ca… | Rust | ⭐ 3.1k |
+| [**N1nEmAn/sapper-v2**](https://github.com/N1nEmAn/sapper-v2) | The first fruit of the Nüwa tree — an autonomous AI pentest legion (634-team champion, 8h… | Python | ⭐ 2k |
+| [**Sandflow-ai/sand3d**](https://github.com/Sandflow-ai/sand3d) | 3D modeling in Python, built for LLMs. | HTML | ⭐ 1.9k |
+| [**voyager-so/vork**](https://github.com/voyager-so/vork) | Headless 3D and VFX engine for agents. Research preview. | Rust | ⭐ 1.5k |
+| [**RunanywhereAI/trnrt**](https://github.com/RunanywhereAI/trnrt) | The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI… | Python | ⭐ 1.4k |
+| [**JosssphZhou/poki**](https://github.com/JosssphZhou/poki) | Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra h… | Swift | ⭐ 1k |
 
-<sub>Auto-updated 2026-11-11 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
+<sub>Auto-updated 2026-11-12 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
 <!--TRENDING:END-->
 
 <img src="./assets/theme/neon-cyan/divider.svg" width="100%" alt="" />
