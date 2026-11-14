@@ -142,14 +142,14 @@ Fresh repos (last 2 weeks) in AI agents, LLMs, RAG and security. Refreshed daily
 <!--TRENDING:START-->
 | Repo | What it does | Lang | Stars |
 |:--|:--|:--:|--:|
-| [**expo/exact**](https://github.com/expo/exact) | Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent ca… | Rust | ⭐ 3.6k |
-| [**Sandflow-ai/sand3d**](https://github.com/Sandflow-ai/sand3d) | 3D modeling in Python, built for LLMs. | HTML | ⭐ 1.9k |
+| [**expo/exact**](https://github.com/expo/exact) | Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent ca… | Rust | ⭐ 4.1k |
+| [**Sandflow-ai/sand3d**](https://github.com/Sandflow-ai/sand3d) | 3D modeling in Python, built for LLMs. | HTML | ⭐ 2k |
 | [**voyager-so/vork**](https://github.com/voyager-so/vork) | Headless 3D and VFX engine for agents. Research preview. | Rust | ⭐ 1.5k |
-| [**agentes-chat/agentes-chat**](https://github.com/agentes-chat/agentes-chat) | Open-source, self-hosted Slack alternative where your team and AI agents work together in… | TypeScript | ⭐ 1.3k |
-| [**JosssphZhou/poki**](https://github.com/JosssphZhou/poki) | Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra h… | Swift | ⭐ 1k |
-| [**kubai087/kubai-icons**](https://github.com/kubai087/kubai-icons) | An agent skill that draws animated icons in one consistent style, for Claude Code, Codex… | JavaScript | ⭐ 799 |
+| [**agentes-chat/agentes-chat**](https://github.com/agentes-chat/agentes-chat) | Open-source, self-hosted Slack alternative where your team and AI agents work together in… | TypeScript | ⭐ 1.4k |
+| [**JosssphZhou/poki**](https://github.com/JosssphZhou/poki) | Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra h… | Swift | ⭐ 1.2k |
+| [**kubai087/kubai-icons**](https://github.com/kubai087/kubai-icons) | An agent skill that draws animated icons in one consistent style, for Claude Code, Codex… | JavaScript | ⭐ 819 |
 
-<sub>Auto-updated 2026-11-13 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
+<sub>Auto-updated 2026-11-14 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
 <!--TRENDING:END-->
 
 <img src="./assets/theme/neon-cyan/divider.svg" width="100%" alt="" />
