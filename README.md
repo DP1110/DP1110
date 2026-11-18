@@ -142,14 +142,14 @@ Fresh repos (last 2 weeks) in AI agents, LLMs, RAG and security. Refreshed daily
 <!--TRENDING:START-->
 | Repo | What it does | Lang | Stars |
 |:--|:--|:--:|--:|
-| [**hitkeeen/blender-ai-mcp-addon**](https://github.com/hitkeeen/blender-ai-mcp-addon) | AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows.… | — | ⭐ 2.4k |
 | [**agentes-chat/agentes-chat**](https://github.com/agentes-chat/agentes-chat) | Open-source, self-hosted Slack alternative where your team and AI agents work together in… | TypeScript | ⭐ 1.7k |
 | [**voyager-so/vork**](https://github.com/voyager-so/vork) | Headless 3D and VFX engine for agents. Research preview. | Rust | ⭐ 1.6k |
 | [**JosssphZhou/poki**](https://github.com/JosssphZhou/poki) | Poki uses your iPhone like you do. An open-source agent that sees your screen and taps, t… | Swift | ⭐ 1.6k |
-| [**alexeyw/lot-map**](https://github.com/alexeyw/lot-map) | A live map beside the chat that shows what Claude Code is doing: tool calls, model steps,… | TypeScript | ⭐ 960 |
-| [**hyperionaidev/smolmaxxing**](https://github.com/hyperionaidev/smolmaxxing) | maxxing the ability to run different LLMs on the smallest devices possible | C | ⭐ 915 |
+| [**sybil-solutions/inference-optimisation-skill**](https://github.com/sybil-solutions/inference-optimisation-skill) | Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, pref… | Python | ⭐ 1k |
+| [**alexeyw/lot-map**](https://github.com/alexeyw/lot-map) | A live map beside the chat that shows what Claude Code is doing: tool calls, model steps,… | TypeScript | ⭐ 995 |
+| [**Dodaios/ste80-humanizer**](https://github.com/Dodaios/ste80-humanizer) | STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to AS… | Python | ⭐ 781 |
 
-<sub>Auto-updated 2026-11-17 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
+<sub>Auto-updated 2026-11-18 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
 <!--TRENDING:END-->
 
 <img src="./assets/theme/neon-cyan/divider.svg" width="100%" alt="" />
