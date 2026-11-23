@@ -142,14 +142,14 @@ Fresh repos (last 2 weeks) in AI agents, LLMs, RAG and security. Refreshed daily
 <!--TRENDING:START-->
 | Repo | What it does | Lang | Stars |
 |:--|:--|:--:|--:|
-| [**bookwjitchieni1986/blender-ai-mcp-addon**](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) | AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows.… | — | ⭐ 2.7k |
-| [**agentes-chat/agentes-chat**](https://github.com/agentes-chat/agentes-chat) | Open-source, self-hosted Slack alternative where your team and AI agents work together in… | TypeScript | ⭐ 1.9k |
-| [**sybil-solutions/inference-optimisation-skill**](https://github.com/sybil-solutions/inference-optimisation-skill) | Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, pref… | Python | ⭐ 1.8k |
-| [**alexeyw/lot-map**](https://github.com/alexeyw/lot-map) | Lot Map for Claude Code: a live map beside the chat that shows what the agent is doing. T… | TypeScript | ⭐ 1.1k |
-| [**Dodaios/ste80-humanizer**](https://github.com/Dodaios/ste80-humanizer) | STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to AS… | Python | ⭐ 1.1k |
-| [**boringmarketer/boring-marketing-skills**](https://github.com/boringmarketer/boring-marketing-skills) | 32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI s… | Python | ⭐ 787 |
+| [**bookwjitchieni1986/blender-ai-mcp-addon**](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) | AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows.… | — | ⭐ 2.8k |
+| [**EL4CTEO/fast-anything**](https://github.com/EL4CTEO/fast-anything) | Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps,… | Rust | ⭐ 2.6k |
+| [**sybil-solutions/inference-optimisation-skill**](https://github.com/sybil-solutions/inference-optimisation-skill) | Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, pref… | Python | ⭐ 2k |
+| [**pierridotite/mobile-agent-testers**](https://github.com/pierridotite/mobile-agent-testers) | 20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code… | Python | ⭐ 1.1k |
+| [**boringmarketer/boring-marketing-skills**](https://github.com/boringmarketer/boring-marketing-skills) | 32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI s… | Python | ⭐ 802 |
+| [**mankidev/antialgorithm**](https://github.com/mankidev/antialgorithm) | Agent skill that steers the model away from its first, most average pick in creative work… | Python | ⭐ 745 |
 
-<sub>Auto-updated 2026-11-22 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
+<sub>Auto-updated 2026-11-23 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
 <!--TRENDING:END-->
 
 <img src="./assets/theme/neon-cyan/divider.svg" width="100%" alt="" />
