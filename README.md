@@ -142,14 +142,14 @@ Fresh repos (last 2 weeks) in AI agents, LLMs, RAG and security. Refreshed daily
 <!--TRENDING:START-->
 | Repo | What it does | Lang | Stars |
 |:--|:--|:--:|--:|
-| [**EL4CTEO/fast-anything**](https://github.com/EL4CTEO/fast-anything) | Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps,… | Rust | ⭐ 3.4k |
-| [**sybil-solutions/inference-optimisation-skill**](https://github.com/sybil-solutions/inference-optimisation-skill) | Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, pref… | Python | ⭐ 2.4k |
-| [**pierridotite/mobile-agent-testers**](https://github.com/pierridotite/mobile-agent-testers) | 20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code… | Python | ⭐ 1.7k |
-| [**boringmarketer/boring-marketing-skills**](https://github.com/boringmarketer/boring-marketing-skills) | 32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI s… | Python | ⭐ 826 |
-| [**mankidev/antialgorithm**](https://github.com/mankidev/antialgorithm) | Agent skill that steers the model away from its first, most average pick in creative work… | Python | ⭐ 805 |
-| [**erkamyaman/safe-anything**](https://github.com/erkamyaman/safe-anything) | Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQ… | Rust | ⭐ 574 |
+| [**EL4CTEO/fast-anything**](https://github.com/EL4CTEO/fast-anything) | Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps,… | Rust | ⭐ 3.8k |
+| [**sybil-solutions/inference-optimisation-skill**](https://github.com/sybil-solutions/inference-optimisation-skill) | Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, pref… | Python | ⭐ 2.6k |
+| [**pierridotite/mobile-agent-testers**](https://github.com/pierridotite/mobile-agent-testers) | 20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code… | Python | ⭐ 2.1k |
+| [**mankidev/antialgorithm**](https://github.com/mankidev/antialgorithm) | Agent skill that steers the model away from its first, most average pick in creative work… | Python | ⭐ 857 |
+| [**boringmarketer/boring-marketing-skills**](https://github.com/boringmarketer/boring-marketing-skills) | 32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI s… | Python | ⭐ 853 |
+| [**sous-labs/songe**](https://github.com/sous-labs/songe) | A training engine for your local model, using your idle compute | Python | ⭐ 791 |
 
-<sub>Auto-updated 2026-11-24 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
+<sub>Auto-updated 2026-11-25 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
 <!--TRENDING:END-->
 
 <img src="./assets/theme/neon-cyan/divider.svg" width="100%" alt="" />
