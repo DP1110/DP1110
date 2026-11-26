@@ -142,14 +142,14 @@ Fresh repos (last 2 weeks) in AI agents, LLMs, RAG and security. Refreshed daily
 <!--TRENDING:START-->
 | Repo | What it does | Lang | Stars |
 |:--|:--|:--:|--:|
-| [**EL4CTEO/fast-anything**](https://github.com/EL4CTEO/fast-anything) | Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps,… | Rust | ⭐ 3.8k |
-| [**sybil-solutions/inference-optimisation-skill**](https://github.com/sybil-solutions/inference-optimisation-skill) | Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, pref… | Python | ⭐ 2.6k |
-| [**pierridotite/mobile-agent-testers**](https://github.com/pierridotite/mobile-agent-testers) | 20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code… | Python | ⭐ 2.1k |
-| [**mankidev/antialgorithm**](https://github.com/mankidev/antialgorithm) | Agent skill that steers the model away from its first, most average pick in creative work… | Python | ⭐ 857 |
-| [**boringmarketer/boring-marketing-skills**](https://github.com/boringmarketer/boring-marketing-skills) | 32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI s… | Python | ⭐ 853 |
-| [**sous-labs/songe**](https://github.com/sous-labs/songe) | A training engine for your local model, using your idle compute | Python | ⭐ 791 |
+| [**EL4CTEO/fast-anything**](https://github.com/EL4CTEO/fast-anything) | Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps,… | Rust | ⭐ 4.1k |
+| [**sybil-solutions/inference-optimisation-skill**](https://github.com/sybil-solutions/inference-optimisation-skill) | Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, pref… | Python | ⭐ 2.8k |
+| [**pierridotite/mobile-agent-testers**](https://github.com/pierridotite/mobile-agent-testers) | 20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code… | Python | ⭐ 2.4k |
+| [**opensetlabs/openset-llm**](https://github.com/opensetlabs/openset-llm) | Fast local LLM inference on plain CPUs. No GPU, 8 GB of RAM. OpenAI-compatible server. | C++ | ⭐ 1.3k |
+| [**alesha-pro/llm.asm**](https://github.com/alesha-pro/llm.asm) | Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT t… | Assembly | ⭐ 894 |
+| [**mankidev/antialgorithm**](https://github.com/mankidev/antialgorithm) | Agent skill that steers the model away from its first, most average pick in creative work… | Python | ⭐ 891 |
 
-<sub>Auto-updated 2026-11-25 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
+<sub>Auto-updated 2026-11-26 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
 <!--TRENDING:END-->
 
 <img src="./assets/theme/neon-cyan/divider.svg" width="100%" alt="" />
