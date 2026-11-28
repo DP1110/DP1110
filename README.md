@@ -142,14 +142,14 @@ Fresh repos (last 2 weeks) in AI agents, LLMs, RAG and security. Refreshed daily
 <!--TRENDING:START-->
 | Repo | What it does | Lang | Stars |
 |:--|:--|:--:|--:|
-| [**EL4CTEO/fast-anything**](https://github.com/EL4CTEO/fast-anything) | Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps,… | Rust | ⭐ 4.4k |
+| [**EL4CTEO/fast-anything**](https://github.com/EL4CTEO/fast-anything) | Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot func… | Rust | ⭐ 4.6k |
 | [**sybil-solutions/inference-optimisation-skill**](https://github.com/sybil-solutions/inference-optimisation-skill) | Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, pref… | Python | ⭐ 2.9k |
-| [**pierridotite/mobile-agent-testers**](https://github.com/pierridotite/mobile-agent-testers) | 20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code… | Python | ⭐ 2.6k |
-| [**alesha-pro/llm.asm**](https://github.com/alesha-pro/llm.asm) | Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT t… | Assembly | ⭐ 1.8k |
-| [**nexu-io/opengame**](https://github.com/nexu-io/opengame) | The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix.… | TypeScript | ⭐ 1.7k |
-| [**sous-labs/songe**](https://github.com/sous-labs/songe) | A training engine for your local model, using your idle compute | Python | ⭐ 916 |
+| [**pierridotite/mobile-agent-testers**](https://github.com/pierridotite/mobile-agent-testers) | 20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code… | Python | ⭐ 2.7k |
+| [**nexu-io/opengame**](https://github.com/nexu-io/opengame) | The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix.… | TypeScript | ⭐ 2.6k |
+| [**alesha-pro/llm.asm**](https://github.com/alesha-pro/llm.asm) | Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT t… | Assembly | ⭐ 2.5k |
+| [**DeadInternetStudios/100x-engineer-skill**](https://github.com/DeadInternetStudios/100x-engineer-skill) | 100x is a skill by a former Cursor engineer that turns prompts into formally verified, pr… | JavaScript | ⭐ 1.3k |
 
-<sub>Auto-updated 2026-11-27 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
+<sub>Auto-updated 2026-11-28 · new repos from the last 14 days in `ai-agents`, `llm`, `rag`, `cybersecurity`</sub>
 <!--TRENDING:END-->
 
 <img src="./assets/theme/neon-cyan/divider.svg" width="100%" alt="" />
